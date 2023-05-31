@@ -1,0 +1,1262 @@
+﻿Date;Time;Operation Mode;System Status;Flow [m³/h] W1-BF1;Flow [m³/h] W3-BF1 OR HW VFD Speed [Hz];Inlet Pressure [Bar];Outlet Pressure [Bar];Diff. Pressure [Bar];Uv Unit Temperature [°C];Uv-I Sensor [W/m²];Total Lamp Pwr [kW];Calculated [m³];ByPass;Alarm;Flow Limit;Allowed Flow [m³];FullTime
+25-02-2023;00:00:00;Ballast;Running Ballast;286;0;3,87;3,78;0,08;3,6;571;72,001;284,6;System In Line;System Ok;500;306,875;25-02-2023 00:00
+25-02-2023;00:00:05;Ballast;Running Ballast;282;0;3,85;3,78;0,08;3,6;570;71,996;285;System In Line;System Ok;500;306,875;25-02-2023 00:00
+25-02-2023;00:00:11;Ballast;Running Ballast;289;0;3,84;3,77;0,08;3,5;570;72,005;285,5;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:16;Ballast;Running Ballast;288;0;3,84;3,76;0,08;3,5;570;71,99;285,9;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:22;Ballast;Running Ballast;310;0;3,78;3,7;0,08;3,5;570;72,011;286,4;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:27;Ballast;Running Ballast;309;0;3,79;3,7;0,08;3,4;570;71,998;286,8;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:33;Ballast;Running Ballast;306;0;3,8;3,7;0,09;3,4;570;71,996;287,4;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:38;Ballast;Running Ballast;306;0;3,79;3,7;0,09;3,3;570;71,997;287,8;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:44;Ballast;Running Ballast;306;0;3,79;3,71;0,09;3,3;570;72,001;288,3;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:49;Ballast;Running Ballast;308;0;3,8;3,7;0,09;3,3;570;71,998;288,7;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:00:55;Ballast;Running Ballast;307;0;3,8;3,71;0,09;3,2;570;72,002;289,2;System In Line;System Ok;500;306,25;25-02-2023 00:00
+25-02-2023;00:01:00;Ballast;Running Ballast;308;0;3,81;3,71;0,09;3,2;570;71,999;289,7;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:06;Ballast;Running Ballast;307;0;3,79;3,7;0,1;3,2;570;71,998;290,2;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:11;Ballast;Running Ballast;308;0;3,79;3,7;0,1;3,1;570;71,998;290,6;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:17;Ballast;Running Ballast;308;0;3,8;3,7;0,09;3,1;570;71,998;291,1;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:22;Ballast;Running Ballast;307;0;3,78;3,7;0,09;3,1;570;72,005;291,5;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:28;Ballast;Running Ballast;307;0;3,79;3,69;0,09;3;570;72,012;292;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:33;Ballast;Running Ballast;307;0;3,8;3,7;0,09;3;570;71,997;292,5;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:39;Ballast;Running Ballast;307;0;3,8;3,69;0,1;3;570;72,003;293;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:44;Ballast;Running Ballast;307;0;3,8;3,69;0,1;3;570;72,008;293,4;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:50;Ballast;Running Ballast;306;0;3,8;3,7;0,1;2,9;570;71,999;293,9;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:01:55;Ballast;Running Ballast;306;0;3,81;3,71;0,1;2,9;570;72,002;294,3;System In Line;System Ok;500;306,25;25-02-2023 00:01
+25-02-2023;00:02:01;Ballast;Running Ballast;308;0;3,79;3,7;0,1;2,9;570;72;294,9;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:06;Ballast;Running Ballast;307;0;3,8;3,7;0,1;2,9;570;72,012;295,3;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:12;Ballast;Running Ballast;306;0;3,8;3,69;0,1;2,9;570;71,999;295,8;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:17;Ballast;Running Ballast;306;0;3,78;3,68;0,11;2,8;570;71,995;296,2;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:23;Ballast;Running Ballast;307;0;3,79;3,69;0,1;2,8;570;72,004;296,7;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:28;Ballast;Running Ballast;306;0;3,79;3,69;0,1;2,8;570;72,003;297,2;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:34;Ballast;Running Ballast;305;0;3,79;3,68;0,11;2,8;570;72,003;297,7;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:39;Ballast;Running Ballast;306;0;3,78;3,68;0,11;2,8;570;72,005;298,1;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:45;Ballast;Running Ballast;305;0;3,79;3,69;0,1;2,8;570;71,995;298,6;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:50;Ballast;Running Ballast;305;0;3,79;3,67;0,11;2,7;570;72,006;299;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:02:56;Ballast;Running Ballast;305;0;3,79;3,68;0,11;2,7;570;71,996;299,5;System In Line;System Ok;500;306,25;25-02-2023 00:02
+25-02-2023;00:03:01;Ballast;Running Ballast;305;0;3,78;3,68;0,11;2,7;569;71,998;300;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:07;Ballast;Running Ballast;305;0;3,79;3,68;0,11;2,7;570;71,996;300,5;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:12;Ballast;Running Ballast;305;0;3,78;3,68;0,1;2,7;570;71,993;300,9;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:18;Ballast;Running Ballast;305;0;3,8;3,69;0,11;2,7;570;71,993;301,4;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:23;Ballast;Running Ballast;305;0;3,79;3,68;0,11;2,7;570;72,01;301,8;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:29;Ballast;Running Ballast;305;0;3,8;3,68;0,12;2,7;570;71,998;302,3;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:34;Ballast;Running Ballast;306;0;3,79;3,67;0,12;2,6;570;71,997;302,8;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:40;Ballast;Running Ballast;305;0;3,8;3,68;0,12;2,6;570;72;303,3;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:45;Ballast;Running Ballast;306;0;3,79;3,67;0,12;2,6;570;72,003;303,7;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:51;Ballast;Running Ballast;305;0;3,8;3,68;0,12;2,6;570;71,989;304,2;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:03:56;Ballast;Running Ballast;305;0;3,8;3,68;0,12;2,6;570;71,998;304,6;System In Line;System Ok;500;306,25;25-02-2023 00:03
+25-02-2023;00:04:02;Ballast;Running Ballast;304;0;3,8;3,68;0,12;2,6;570;71,996;305,1;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:07;Ballast;Running Ballast;304;0;3,8;3,67;0,12;2,6;570;72,004;305,5;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:13;Ballast;Running Ballast;304;0;3,79;3,67;0,12;2,6;570;72,008;306,1;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:18;Ballast;Running Ballast;305;0;3,79;3,67;0,12;2,6;570;72,002;306,5;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:24;Ballast;Running Ballast;303;0;3,8;3,67;0,13;2,6;570;72,003;307;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:29;Ballast;Running Ballast;305;0;3,79;3,67;0,12;2,5;570;71,993;307,4;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:35;Ballast;Running Ballast;308;0;3,8;3,67;0,12;2,5;570;71,994;307,9;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:40;Ballast;Running Ballast;307;0;3,79;3,66;0,12;2,5;570;72,003;308,3;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:46;Ballast;Running Ballast;306;0;3,79;3,66;0,13;2,5;570;72,002;308,9;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:51;Ballast;Running Ballast;308;0;3,78;3,65;0,13;2,5;570;71,992;309,3;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:04:57;Ballast;Running Ballast;307;0;3,79;3,66;0,13;2,5;570;72,002;309,8;System In Line;System Ok;500;306,25;25-02-2023 00:04
+25-02-2023;00:05:02;Ballast;Running Ballast;307;0;3,79;3,66;0,13;2,5;570;71,999;310,2;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:08;Ballast;Running Ballast;308;0;3,79;3,66;0,13;2,5;570;71,991;310,7;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:13;Ballast;Running Ballast;307;0;3,79;3,66;0,13;2,5;570;71,993;311,2;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:19;Ballast;Running Ballast;307;0;3,78;3,64;0,13;2,5;570;71,99;311,7;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:24;Ballast;Running Ballast;307;0;3,78;3,65;0,14;2,5;570;72;312,1;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:30;Ballast;Running Ballast;305;0;3,78;3,66;0,13;2,5;570;71,996;312,6;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:35;Ballast;Running Ballast;304;0;3,79;3,65;0,13;2,5;570;72,003;313;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:41;Ballast;Running Ballast;304;0;3,79;3,65;0,14;2,5;570;71,997;313,5;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:46;Ballast;Running Ballast;303;0;3,78;3,63;0,14;2,5;570;71,998;314;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:52;Ballast;Running Ballast;303;0;3,78;3,65;0,14;2,5;570;72,006;314,5;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:05:57;Ballast;Running Ballast;304;0;3,79;3,65;0,14;2,5;570;71,996;314,9;System In Line;System Ok;500;306,25;25-02-2023 00:05
+25-02-2023;00:06:03;Ballast;Running Ballast;304;0;3,79;3,65;0,14;2,5;570;72,007;315,4;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:08;Ballast;Running Ballast;304;0;3,78;3,64;0,14;2,5;570;71,994;315,8;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:14;Ballast;Running Ballast;303;0;3,8;3,64;0,15;2,5;570;72,003;316,3;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:19;Ballast;Running Ballast;303;0;3,79;3,64;0,15;2,5;570;72,001;316,7;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:25;Ballast;Running Ballast;303;0;3,79;3,65;0,15;2,5;570;71,994;317,3;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:30;Ballast;Running Ballast;304;0;3,8;3,65;0,15;2,4;570;72,007;317,7;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:36;Ballast;Running Ballast;303;0;3,79;3,64;0,15;2,4;570;71,995;318,2;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:41;Ballast;Running Ballast;303;0;3,79;3,64;0,15;2,4;570;72,005;318,6;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:47;Ballast;Running Ballast;304;0;3,79;3,64;0,15;2,4;570;72,001;319,1;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:52;Ballast;Running Ballast;304;0;3,79;3,64;0,15;2,4;570;71,993;319,5;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:06:58;Ballast;Running Ballast;303;0;3,8;3,64;0,16;2,4;570;72,011;320;System In Line;System Ok;500;306,25;25-02-2023 00:06
+25-02-2023;00:07:03;Ballast;Running Ballast;303;0;3,8;3,64;0,16;2,4;570;72,01;320,5;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:09;Ballast;Running Ballast;303;0;3,76;3,61;0,16;2,4;570;72;321;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:14;Ballast;Running Ballast;319;0;3,75;3,58;0,16;2,4;570;72,003;321,4;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:20;Ballast;Running Ballast;317;0;3,76;3,59;0,16;2,4;570;72,01;321,9;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:25;Ballast;Running Ballast;316;0;3,76;3,6;0,17;2,4;570;72,009;322,4;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:31;Ballast;Running Ballast;314;0;3,75;3,59;0,17;2,4;570;72,003;322,9;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:36;Ballast;Running Ballast;313;0;3,76;3,59;0,17;2,4;570;72,009;323,3;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:42;Ballast;Running Ballast;303;0;3,8;3,64;0,16;2,4;570;72,004;323,8;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:47;Ballast;Running Ballast;301;0;3,8;3,63;0,16;2,4;570;72,007;324,3;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:53;Ballast;Running Ballast;303;0;3,79;3,63;0,17;2,4;570;71,996;324,8;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:07:58;Ballast;Running Ballast;301;0;3,79;3,63;0,17;2,4;570;72,002;325,2;System In Line;System Ok;500;306,25;25-02-2023 00:07
+25-02-2023;00:08:04;Ballast;Running Ballast;301;0;3,8;3,63;0,17;2,4;570;72,006;325,7;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:09;Ballast;Running Ballast;302;0;3,8;3,62;0,17;2,4;570;72,006;326,1;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:15;Ballast;Running Ballast;302;0;3,79;3,62;0,17;2,4;570;72,005;326,6;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:20;Ballast;Running Ballast;302;0;3,79;3,63;0,17;2,4;570;72,005;327;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:26;Ballast;Running Ballast;300;0;3,79;3,62;0,17;2,4;570;72,003;327,5;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:31;Ballast;Running Ballast;302;0;3,8;3,62;0,17;2,4;570;72,005;327,9;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:37;Ballast;Running Ballast;303;0;3,77;3,6;0,17;2,4;570;72,005;328,4;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:42;Ballast;Running Ballast;310;0;3,77;3,59;0,18;2,4;570;72,001;328,9;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:48;Ballast;Running Ballast;310;0;3,77;3,59;0,18;2,4;570;71,992;329,4;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:53;Ballast;Running Ballast;306;0;3,79;3,6;0,18;2,4;570;71,997;329,8;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:08:59;Ballast;Running Ballast;302;0;3,8;3,61;0,19;2,4;570;72,01;330,3;System In Line;System Ok;500;306,25;25-02-2023 00:08
+25-02-2023;00:09:04;Ballast;Running Ballast;303;0;3,8;3,61;0,19;2,6;570;72,01;330,7;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:10;Ballast;Running Ballast;303;0;3,78;3,6;0,19;2,8;570;72,001;331,3;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:15;Ballast;Running Ballast;303;0;3,79;3,6;0,19;3,2;570;72;331,7;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:21;Ballast;Running Ballast;305;0;3,8;3,6;0,19;3,4;570;71,998;332,2;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:26;Ballast;Running Ballast;306;0;3,79;3,6;0,19;3,6;570;71,999;332,6;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:32;Ballast;Running Ballast;305;0;3,8;3,6;0,19;3,8;570;72,005;333,1;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:37;Ballast;Running Ballast;304;0;3,78;3,6;0,19;4,1;570;72,004;333,5;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:43;Ballast;Running Ballast;305;0;3,81;3,6;0,19;4,1;570;71,993;334;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:48;Ballast;Running Ballast;305;0;3,8;3,59;0,2;4,3;569;72,004;334,5;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:54;Ballast;Running Ballast;303;0;3,79;3,6;0,2;4,3;570;71,998;335;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:09:59;Ballast;Running Ballast;305;0;3,8;3,6;0,2;4,4;570;71,999;335,4;System In Line;System Ok;500;306,25;25-02-2023 00:09
+25-02-2023;00:10:05;Ballast;Running Ballast;305;0;3,8;3,6;0,2;4,4;570;71,997;335,9;System In Line;System Ok;500;306,25;25-02-2023 00:10
+25-02-2023;00:10:10;Ballast;Running Ballast;305;0;3,81;3,6;0,2;4,4;569;72,005;336,3;System In Line;System Ok;500;306,25;25-02-2023 00:10
+25-02-2023;00:10:16;Ballast;Running Ballast;305;0;3,8;3,59;0,21;4,5;569;72,005;336,8;System In Line;System Ok;500;305,625;25-02-2023 00:10
+25-02-2023;00:10:21;Ballast;Filter Flushing;307;0;3,79;3,59;0,21;4,5;569;72,005;337,3;System In Line;System Ok;500;305,625;25-02-2023 00:10
+25-02-2023;00:10:27;Ballast;Filter Flushing;325;31;3,7;3,64;0,15;4,5;568;71,999;337,8;System In Line;System Ok;500;305;25-02-2023 00:10
+25-02-2023;00:10:32;Ballast;Running Ballast;337;47;3,65;3,61;0,07;4,6;569;72,008;338,2;System In Line;System Ok;500;305,625;25-02-2023 00:10
+25-02-2023;00:10:38;Ballast;Running Ballast;324;26;3,8;3,74;0,05;4,6;570;72,005;338,8;System In Line;System Ok;500;306,25;25-02-2023 00:10
+25-02-2023;00:10:43;Ballast;Running Ballast;296;2;3,84;3,79;0,05;4,6;569;72,002;339,2;System In Line;System Ok;500;305,625;25-02-2023 00:10
+25-02-2023;00:10:49;Ballast;Running Ballast;298;0;3,83;3,78;0,05;4,6;569;72,001;339,7;System In Line;System Ok;500;305,625;25-02-2023 00:10
+25-02-2023;00:10:54;Ballast;Running Ballast;300;0;3,82;3,77;0,04;4,7;570;72;340,1;System In Line;System Ok;500;305,625;25-02-2023 00:10
+25-02-2023;00:11:00;Ballast;Running Ballast;299;0;3,82;3,79;0,04;4,7;569;71,993;340,6;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:05;Ballast;Running Ballast;297;0;3,83;3,79;0,04;4,7;569;71,999;341,1;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:11;Ballast;Running Ballast;297;0;3,83;3,8;0,04;4,7;569;72;341,6;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:16;Ballast;Running Ballast;302;0;3,82;3,76;0,04;4,7;569;71,988;342;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:22;Ballast;Running Ballast;306;0;3,8;3,76;0,04;4,7;569;71,986;342,5;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:27;Ballast;Running Ballast;306;0;3,81;3,78;0,04;4,7;569;72;342,9;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:33;Ballast;Running Ballast;305;0;3,8;3,76;0,04;4,7;569;72,004;343,4;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:38;Ballast;Running Ballast;305;0;3,81;3,76;0,04;4,7;569;72,003;343,8;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:44;Ballast;Running Ballast;304;0;3,8;3,76;0,04;4,7;569;71,998;344,3;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:49;Ballast;Running Ballast;306;0;3,81;3,77;0,04;4,7;569;71,993;344,8;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:11:55;Ballast;Running Ballast;305;0;3,81;3,76;0,04;4,7;569;72,001;345,3;System In Line;System Ok;500;305,625;25-02-2023 00:11
+25-02-2023;00:12:00;Ballast;Running Ballast;305;0;3,81;3,76;0,04;4,6;570;72,01;345,7;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:06;Ballast;Running Ballast;307;0;3,8;3,76;0,05;4,5;569;72,013;346,2;System In Line;System Ok;500;305,625;25-02-2023 00:12
+25-02-2023;00:12:11;Ballast;Running Ballast;303;0;3,81;3,76;0,05;4,4;570;72,001;346,6;System In Line;System Ok;500;305,625;25-02-2023 00:12
+25-02-2023;00:12:17;Ballast;Running Ballast;306;0;3,81;3,77;0,05;4,4;570;71,985;347,1;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:22;Ballast;Running Ballast;304;0;3,8;3,77;0,04;4,4;570;72,002;347,6;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:28;Ballast;Running Ballast;306;0;3,8;3,76;0,04;4,3;570;72,007;348,1;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:33;Ballast;Running Ballast;304;0;3,81;3,77;0,05;4,3;570;72,005;348,5;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:39;Ballast;Running Ballast;305;0;3,8;3,76;0,04;4,2;570;71,989;349;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:44;Ballast;Running Ballast;303;0;3,82;3,76;0,05;4,1;570;72,009;349,4;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:50;Ballast;Running Ballast;304;0;3,8;3,76;0,05;4;570;71,993;349,9;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:12:55;Ballast;Running Ballast;305;0;3,8;3,76;0,05;4;570;72,013;350,4;System In Line;System Ok;500;306,25;25-02-2023 00:12
+25-02-2023;00:13:01;Ballast;Running Ballast;306;0;3,8;3,75;0,05;4;570;71,991;350,9;System In Line;System Ok;500;306,25;25-02-2023 00:13
+25-02-2023;00:13:06;Ballast;Running Ballast;307;0;3,81;3,75;0,05;3,9;570;72,006;351,3;System In Line;System Ok;500;306,25;25-02-2023 00:13
+25-02-2023;00:13:12;Ballast;Running Ballast;306;0;3,8;3,75;0,04;3,9;570;71,996;351,8;System In Line;System Ok;500;306,25;25-02-2023 00:13
+25-02-2023;00:13:17;Ballast;Running Ballast;306;0;3,81;3,76;0,05;3,8;571;72,005;352,2;System In Line;System Ok;500;306,25;25-02-2023 00:13
+25-02-2023;00:13:23;Ballast;Running Ballast;306;0;3,8;3,76;0,05;3,7;571;71,999;352,7;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:13:28;Ballast;Running Ballast;306;0;3,81;3,76;0,05;3,6;571;72,005;353,2;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:13:34;Ballast;Running Ballast;305;0;3,81;3,75;0,05;3,6;571;72,002;353,7;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:13:39;Ballast;Running Ballast;305;0;3,8;3,75;0,05;3,6;571;71,994;354,1;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:13:45;Ballast;Running Ballast;305;0;3,81;3,75;0,06;3,5;571;71,997;354,6;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:13:50;Ballast;Running Ballast;307;0;3,8;3,75;0,05;3,5;571;71,999;355;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:13:56;Ballast;Running Ballast;307;0;3,78;3,75;0,05;3,4;571;72,008;355,5;System In Line;System Ok;500;306,875;25-02-2023 00:13
+25-02-2023;00:14:01;Ballast;Running Ballast;306;0;3,79;3,75;0,05;3,4;571;72,001;356;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:07;Ballast;Running Ballast;306;0;3,81;3,74;0,05;3,3;571;71,996;356,5;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:12;Ballast;Running Ballast;305;0;3,81;3,76;0,05;3,3;571;71,996;356,9;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:18;Ballast;Running Ballast;304;0;3,81;3,77;0,05;3,3;571;72,001;357,4;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:23;Ballast;Running Ballast;302;0;3,82;3,76;0,05;3,2;571;72,002;357,8;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:29;Ballast;Running Ballast;304;0;3,81;3,76;0,05;3,2;571;72,006;358,3;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:34;Ballast;Running Ballast;307;0;3,81;3,76;0,05;3,1;571;71,99;358,8;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:40;Ballast;Running Ballast;304;0;3,81;3,76;0,05;3,1;571;71,992;359,3;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:45;Ballast;Running Ballast;304;0;3,81;3,75;0,05;3;571;72;359,7;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:51;Ballast;Running Ballast;305;0;3,82;3,75;0,05;3;571;72,008;360,2;System In Line;System Ok;500;306,875;25-02-2023 00:14
+25-02-2023;00:14:56;Ballast;Running Ballast;307;0;3,75;3,69;0,06;3;571;72,003;360,6;System In Line;System Ok;500;307,5;25-02-2023 00:14
+25-02-2023;00:15:02;Ballast;Running Ballast;327;0;3,73;3,68;0,06;3;572;72,002;361,2;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:07;Ballast;Running Ballast;325;0;3,76;3,71;0,06;2,9;572;71,987;361,6;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:13;Ballast;Running Ballast;312;0;3,8;3,74;0,05;2,9;572;71,993;362,1;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:18;Ballast;Running Ballast;311;0;3,79;3,74;0,05;2,9;572;72,005;362,6;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:24;Ballast;Running Ballast;310;0;3,79;3,74;0,06;2,8;572;72,004;363,1;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:29;Ballast;Running Ballast;311;0;3,79;3,74;0,05;2,8;572;72,007;363,5;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:35;Ballast;Running Ballast;309;0;3,8;3,74;0,05;2,8;572;71,995;364;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:40;Ballast;Running Ballast;310;0;3,8;3,74;0,06;2,8;572;72,004;364,5;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:46;Ballast;Running Ballast;309;0;3,79;3,73;0,06;2,8;572;72,004;365;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:51;Ballast;Running Ballast;310;0;3,8;3,74;0,06;2,8;572;72,006;365,4;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:15:57;Ballast;Running Ballast;310;0;3,8;3,74;0,06;2,7;572;71,999;365,9;System In Line;System Ok;500;307,5;25-02-2023 00:15
+25-02-2023;00:16:02;Ballast;Running Ballast;310;0;3,79;3,74;0,06;2,7;572;71,996;366,4;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:08;Ballast;Running Ballast;311;0;3,79;3,73;0,05;2,7;572;71,998;366,9;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:13;Ballast;Running Ballast;310;0;3,8;3,75;0,06;2,7;572;71,989;367,3;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:19;Ballast;Running Ballast;310;0;3,79;3,73;0,06;2,7;572;72,006;367,8;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:24;Ballast;Running Ballast;310;0;3,79;3,73;0,06;2,7;572;71,999;368,3;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:30;Ballast;Running Ballast;309;0;3,79;3,72;0,07;2,7;572;71,999;368,8;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:35;Ballast;Running Ballast;310;0;3,79;3,73;0,06;2,7;572;71,987;369,2;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:41;Ballast;Running Ballast;309;0;3,79;3,74;0,06;2,7;572;71,995;369,7;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:46;Ballast;Running Ballast;295;0;3,86;3,8;0,06;2,7;572;72,001;370,1;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:52;Ballast;Running Ballast;282;0;3,87;3,82;0,06;2,7;572;71,992;370,6;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:16:57;Ballast;Running Ballast;287;0;3,86;3,8;0,05;2,7;572;71,996;371;System In Line;System Ok;500;307,5;25-02-2023 00:16
+25-02-2023;00:17:03;Ballast;Running Ballast;289;0;3,85;3,78;0,06;2,7;572;72;371,5;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:08;Ballast;Running Ballast;309;0;3,77;3,71;0,06;2,7;572;71,989;371,9;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:14;Ballast;Running Ballast;310;0;3,79;3,72;0,06;2,7;572;72,003;372,4;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:19;Ballast;Running Ballast;310;0;3,79;3,72;0,06;2,7;572;71,994;372,9;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:25;Ballast;Running Ballast;312;0;3,78;3,72;0,07;2,7;572;71,994;373,4;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:30;Ballast;Running Ballast;313;0;3,78;3,72;0,06;2,7;572;72,005;373,8;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:36;Ballast;Running Ballast;312;0;3,78;3,71;0,06;2,7;572;72,004;374,3;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:41;Ballast;Running Ballast;312;0;3,79;3,73;0,06;2,6;572;71,997;374,8;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:47;Ballast;Running Ballast;311;0;3,78;3,72;0,06;2,6;572;72;375,3;System In Line;System Ok;500;307,5;25-02-2023 00:17
+25-02-2023;00:17:52;Ballast;Running Ballast;315;0;3,83;3,76;0,07;2,6;571;72,003;375,7;System In Line;System Ok;500;306,875;25-02-2023 00:17
+25-02-2023;00:17:58;Ballast;Running Ballast;310;0;3,83;3,77;0,06;2,6;563;71,997;376,2;System In Line;System Ok;500;301,875;25-02-2023 00:17
+25-02-2023;00:18:03;Ballast;Running Ballast;285;0;3,81;3,75;0,06;2,6;556;72;376,6;System In Line;System Ok;500;298,75;25-02-2023 00:18
+25-02-2023;00:18:09;Ballast;Running Ballast;305;0;3,83;3,77;0,06;2,6;551;72,005;377,2;System In Line;System Ok;500;294,375;25-02-2023 00:18
+25-02-2023;00:18:14;Ballast;Running Ballast;266;0;3,83;3,78;0,06;2,6;556;72,015;377,6;System In Line;System Ok;500;296,875;25-02-2023 00:18
+25-02-2023;00:18:20;Ballast;Running Ballast;311;0;3,71;3,65;0,06;2,6;562;72,007;378;System In Line;System Ok;500;301,25;25-02-2023 00:18
+25-02-2023;00:18:25;Ballast;Running Ballast;303;0;3,87;3,8;0,07;2,6;565;71,99;378,5;System In Line;System Ok;500;302,5;25-02-2023 00:18
+25-02-2023;00:18:31;Ballast;Running Ballast;290;0;3,86;3,79;0,06;2,6;568;71,986;378,9;System In Line;System Ok;500;305;25-02-2023 00:18
+25-02-2023;00:18:36;Ballast;Running Ballast;289;0;3,84;3,78;0,06;2,6;568;72,008;379,3;System In Line;System Ok;500;304,375;25-02-2023 00:18
+25-02-2023;00:18:42;Ballast;Running Ballast;293;0;3,83;3,77;0,06;2,6;567;72,005;379,8;System In Line;System Ok;500;304,375;25-02-2023 00:18
+25-02-2023;00:18:47;Ballast;Running Ballast;311;0;3,77;3,69;0,07;2,6;568;72,002;380,2;System In Line;System Ok;500;305;25-02-2023 00:18
+25-02-2023;00:18:53;Ballast;Running Ballast;314;0;3,77;3,7;0,07;2,6;569;71,952;380,8;System In Line;System Ok;500;305,625;25-02-2023 00:18
+25-02-2023;00:18:58;Ballast;Running Ballast;315;0;3,77;3,7;0,07;2,6;569;72,002;381,2;System In Line;System Ok;500;305,625;25-02-2023 00:18
+25-02-2023;00:19:04;Ballast;Running Ballast;305;0;3,82;3,74;0,07;2,6;568;72,01;381,7;System In Line;System Ok;500;305;25-02-2023 00:19
+25-02-2023;00:19:09;Ballast;Running Ballast;306;0;3,82;3,75;0,07;2,6;569;72,001;382,1;System In Line;System Ok;500;305,625;25-02-2023 00:19
+25-02-2023;00:19:15;Ballast;Running Ballast;297;0;3,82;3,74;0,07;2,6;569;71,994;382,6;System In Line;System Ok;500;305,625;25-02-2023 00:19
+25-02-2023;00:19:20;Ballast;Running Ballast;299;0;3,81;3,75;0,07;2,6;570;72,003;383,1;System In Line;System Ok;500;306,25;25-02-2023 00:19
+25-02-2023;00:19:26;Ballast;Running Ballast;315;0;3,81;3,74;0,07;2,6;570;72,002;383,6;System In Line;System Ok;500;306,25;25-02-2023 00:19
+25-02-2023;00:19:31;Ballast;Running Ballast;308;0;3,81;3,74;0,07;2,6;570;72,008;384;System In Line;System Ok;500;306,25;25-02-2023 00:19
+25-02-2023;00:19:37;Ballast;Running Ballast;306;0;3,82;3,74;0,07;2,6;571;72;384,5;System In Line;System Ok;500;306,875;25-02-2023 00:19
+25-02-2023;00:19:42;Ballast;Running Ballast;301;0;3,81;3,74;0,07;2,6;571;71,999;384,9;System In Line;System Ok;500;306,875;25-02-2023 00:19
+25-02-2023;00:19:48;Ballast;Running Ballast;305;0;3,8;3,74;0,07;2,6;570;71,999;385,4;System In Line;System Ok;500;306,25;25-02-2023 00:19
+25-02-2023;00:19:53;Ballast;Running Ballast;305;0;3,81;3,73;0,07;2,6;571;72,004;385,9;System In Line;System Ok;500;306,25;25-02-2023 00:19
+25-02-2023;00:19:59;Ballast;Running Ballast;305;0;3,81;3,73;0,07;2,6;571;72,003;386,4;System In Line;System Ok;500;306,875;25-02-2023 00:19
+25-02-2023;00:20:04;Ballast;Running Ballast;304;0;3,81;3,73;0,08;2,5;571;71,995;386,8;System In Line;System Ok;500;306,875;25-02-2023 00:20
+25-02-2023;00:20:10;Ballast;Running Ballast;303;0;3,82;3,74;0,08;2,5;572;72,001;387,3;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:15;Ballast;Running Ballast;299;0;3,84;3,76;0,08;2,5;572;72,004;387,7;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:21;Ballast;Running Ballast;301;0;3,81;3,71;0,08;2,5;572;72,004;388,2;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:26;Ballast;Running Ballast;312;0;3,8;3,71;0,09;2,5;572;72;388,6;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:32;Ballast;Running Ballast;310;0;3,81;3,74;0,08;2,5;571;72;389,2;System In Line;System Ok;500;306,875;25-02-2023 00:20
+25-02-2023;00:20:37;Ballast;Running Ballast;304;0;3,82;3,73;0,08;2,5;572;72,002;389,6;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:43;Ballast;Running Ballast;301;0;3,81;3,73;0,08;2,5;572;71,999;390,1;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:48;Ballast;Running Ballast;307;0;3,8;3,72;0,08;2,5;572;72,005;390,5;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:54;Ballast;Running Ballast;305;0;3,81;3,73;0,08;2,4;572;71,998;391;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:20:59;Ballast;Running Ballast;305;0;3,8;3,72;0,08;2,4;572;72,006;391,5;System In Line;System Ok;500;307,5;25-02-2023 00:20
+25-02-2023;00:21:05;Ballast;Running Ballast;307;0;3,8;3,71;0,08;2,4;572;72,001;392;System In Line;System Ok;500;307,5;25-02-2023 00:21
+25-02-2023;00:21:10;Ballast;Running Ballast;307;0;3,79;3,71;0,08;2,4;572;71,999;392,4;System In Line;System Ok;500;307,5;25-02-2023 00:21
+25-02-2023;00:21:16;Ballast;Running Ballast;306;0;3,8;3,72;0,09;2,4;572;71,998;392,9;System In Line;System Ok;500;307,5;25-02-2023 00:21
+25-02-2023;00:21:21;Ballast;Running Ballast;310;0;3,81;3,73;0,08;2,4;572;71,999;393,3;System In Line;System Ok;500;307,5;25-02-2023 00:21
+25-02-2023;00:21:27;Ballast;Running Ballast;309;0;3,8;3,72;0,08;2,4;572;72,001;393,8;System In Line;System Ok;500;307,5;25-02-2023 00:21
+25-02-2023;00:21:32;Ballast;Running Ballast;306;0;3,8;3,71;0,09;2,4;572;71,998;394,3;System In Line;System Ok;500;307,5;25-02-2023 00:21
+25-02-2023;00:21:38;Ballast;Running Ballast;316;0;3,82;3,75;0,09;2,4;570;71,987;394,8;System In Line;System Ok;500;306,25;25-02-2023 00:21
+25-02-2023;00:21:43;Ballast;Running Ballast;295;0;3,82;3,73;0,09;2,4;570;71,999;395,2;System In Line;System Ok;500;306,875;25-02-2023 00:21
+25-02-2023;00:21:49;Ballast;Running Ballast;291;0;3,81;3,72;0,09;2,4;570;72,002;395,7;System In Line;System Ok;500;306,25;25-02-2023 00:21
+25-02-2023;00:21:54;Ballast;Running Ballast;303;0;3,81;3,72;0,09;2,3;571;71,994;396,1;System In Line;System Ok;500;306,875;25-02-2023 00:21
+25-02-2023;00:22:00;Ballast;Running Ballast;294;0;3,77;3,71;0,09;2,3;570;72,006;396,6;System In Line;System Ok;500;306,25;25-02-2023 00:22
+25-02-2023;00:22:05;Ballast;Running Ballast;295;0;3,73;3,65;0,09;2,3;570;71,999;397;System In Line;System Ok;500;306,25;25-02-2023 00:22
+25-02-2023;00:22:11;Ballast;Running Ballast;321;0;3,73;3,63;0,09;2,3;568;71,991;397,6;System In Line;System Ok;500;305;25-02-2023 00:22
+25-02-2023;00:22:16;Ballast;Running Ballast;303;0;3,79;3,71;0,09;2,4;568;72,005;398;System In Line;System Ok;500;305;25-02-2023 00:22
+25-02-2023;00:22:22;Ballast;Running Ballast;309;0;3,79;3,7;0,08;2,4;570;72;398,5;System In Line;System Ok;500;306,25;25-02-2023 00:22
+25-02-2023;00:22:27;Ballast;Running Ballast;291;0;3,89;3,82;0,08;2,5;568;71,998;399;System In Line;System Ok;500;305;25-02-2023 00:22
+25-02-2023;00:22:33;Ballast;Running Ballast;289;0;3,87;3,79;0,08;2,7;567;71,999;399,4;System In Line;System Ok;500;304,375;25-02-2023 00:22
+25-02-2023;00:22:38;Ballast;Running Ballast;279;0;3,87;3,79;0,08;2,9;568;72,002;399,8;System In Line;System Ok;500;305;25-02-2023 00:22
+25-02-2023;00:22:44;Ballast;Running Ballast;284;0;3,87;3,79;0,09;3,2;567;72,001;400,3;System In Line;System Ok;500;304,375;25-02-2023 00:22
+25-02-2023;00:22:49;Ballast;Running Ballast;313;0;3,81;3,72;0,09;3,4;566;72,002;400,7;System In Line;System Ok;500;303,75;25-02-2023 00:22
+25-02-2023;00:22:55;Ballast;Running Ballast;288;0;3,83;3,74;0,09;3,7;569;71,997;401,2;System In Line;System Ok;500;305,625;25-02-2023 00:22
+25-02-2023;00:23:00;Ballast;Running Ballast;291;0;3,86;3,77;0,09;4;569;72,01;401,6;System In Line;System Ok;500;305,625;25-02-2023 00:23
+25-02-2023;00:23:06;Ballast;Running Ballast;287;0;3,86;3,75;0,09;4,2;570;72,005;402,1;System In Line;System Ok;500;306,25;25-02-2023 00:23
+25-02-2023;00:23:11;Ballast;Running Ballast;288;0;3,86;3,76;0,1;4,4;569;71,991;402,5;System In Line;System Ok;500;305,625;25-02-2023 00:23
+25-02-2023;00:23:17;Ballast;Running Ballast;289;0;3,82;3,71;0,09;4,5;569;71,996;403;System In Line;System Ok;500;305,625;25-02-2023 00:23
+25-02-2023;00:23:22;Ballast;Running Ballast;307;0;3,81;3,71;0,1;4,6;569;71,99;403,4;System In Line;System Ok;500;305,625;25-02-2023 00:23
+25-02-2023;00:23:28;Ballast;Running Ballast;313;0;3,81;3,71;0,1;4,6;568;72,005;403,9;System In Line;System Ok;500;305;25-02-2023 00:23
+25-02-2023;00:23:33;Ballast;Running Ballast;303;0;3,8;3,7;0,1;4,6;567;72;404,3;System In Line;System Ok;500;304,375;25-02-2023 00:23
+25-02-2023;00:23:39;Ballast;Running Ballast;295;0;3,81;3,71;0,1;4,6;566;72,002;404,8;System In Line;System Ok;500;303,75;25-02-2023 00:23
+25-02-2023;00:23:44;Ballast;Running Ballast;308;0;3,83;3,72;0,1;4,7;566;71,991;405,3;System In Line;System Ok;500;303,125;25-02-2023 00:23
+25-02-2023;00:23:50;Ballast;Running Ballast;300;0;3,82;3,71;0,11;4,7;567;71,995;405,8;System In Line;System Ok;500;304,375;25-02-2023 00:23
+25-02-2023;00:23:55;Ballast;Running Ballast;306;0;3,82;3,71;0,11;4,7;568;72,002;406,2;System In Line;System Ok;500;305;25-02-2023 00:23
+25-02-2023;00:24:01;Ballast;Running Ballast;297;0;3,82;3,72;0,1;4,7;569;72,013;406,7;System In Line;System Ok;500;305,625;25-02-2023 00:24
+25-02-2023;00:24:06;Ballast;Running Ballast;306;0;3,82;3,71;0,1;4,7;569;72,006;407,1;System In Line;System Ok;500;305,625;25-02-2023 00:24
+25-02-2023;00:24:12;Ballast;Running Ballast;304;0;3,81;3,7;0,11;4,7;569;71,995;407,6;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:17;Ballast;Running Ballast;304;0;3,82;3,7;0,11;4,7;568;72,013;408,1;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:23;Ballast;Running Ballast;302;0;3,81;3,7;0,11;4,7;569;72,002;408,6;System In Line;System Ok;500;305,625;25-02-2023 00:24
+25-02-2023;00:24:28;Ballast;Running Ballast;304;0;3,81;3,7;0,11;4,7;568;71,995;409;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:34;Ballast;Running Ballast;305;0;3,82;3,7;0,11;4,7;568;72,006;409,5;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:39;Ballast;Running Ballast;303;0;3,83;3,7;0,12;4,7;568;72,001;409,9;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:45;Ballast;Running Ballast;303;0;3,83;3,71;0,12;4,7;568;72,009;410,4;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:50;Ballast;Running Ballast;305;0;3,82;3,7;0,12;4,7;568;72,011;410,8;System In Line;System Ok;500;305;25-02-2023 00:24
+25-02-2023;00:24:56;Ballast;Running Ballast;307;0;3,82;3,71;0,12;4,7;567;71,998;411,4;System In Line;System Ok;500;304,375;25-02-2023 00:24
+25-02-2023;00:25:01;Ballast;Running Ballast;304;0;3,81;3,7;0,12;4,7;567;71,995;411,8;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:07;Ballast;Running Ballast;302;0;3,81;3,69;0,12;4,6;567;72,006;412,3;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:12;Ballast;Running Ballast;304;0;3,81;3,69;0,12;4,6;567;72;412,7;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:18;Ballast;Running Ballast;307;0;3,82;3,69;0,12;4,6;567;71,991;413,2;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:23;Ballast;Running Ballast;300;0;3,81;3,68;0,12;4,5;567;72,003;413,6;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:29;Ballast;Running Ballast;303;0;3,81;3,68;0,13;4,5;567;72,007;414,1;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:34;Ballast;Running Ballast;304;0;3,81;3,69;0,13;4,5;567;72,002;414,6;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:25:40;Ballast;Running Ballast;310;0;3,83;3,68;0,13;4,3;566;72,001;415,1;System In Line;System Ok;500;303,75;25-02-2023 00:25
+25-02-2023;00:25:45;Ballast;Running Ballast;282;0;3,81;3,69;0,13;4,3;566;72,002;415,5;System In Line;System Ok;500;303,75;25-02-2023 00:25
+25-02-2023;00:25:51;Ballast;Running Ballast;303;0;3,8;3,67;0,13;4,2;566;72,001;416;System In Line;System Ok;500;303,75;25-02-2023 00:25
+25-02-2023;00:25:56;Ballast;Running Ballast;306;0;3,81;3,68;0,13;4,2;567;72;416,4;System In Line;System Ok;500;304,375;25-02-2023 00:25
+25-02-2023;00:26:02;Ballast;Running Ballast;302;0;3,8;3,67;0,13;4,1;566;71,992;416,9;System In Line;System Ok;500;303,75;25-02-2023 00:26
+25-02-2023;00:26:07;Ballast;Running Ballast;307;0;3,8;3,67;0,13;4;566;71,998;417,3;System In Line;System Ok;500;303,75;25-02-2023 00:26
+25-02-2023;00:26:13;Ballast;Running Ballast;306;0;3,8;3,67;0,13;4;565;71,999;417,8;System In Line;System Ok;500;303,125;25-02-2023 00:26
+25-02-2023;00:26:18;Ballast;Running Ballast;304;0;3,8;3,67;0,13;3,9;565;71,996;418,3;System In Line;System Ok;500;303,125;25-02-2023 00:26
+25-02-2023;00:26:24;Ballast;Running Ballast;297;0;3,84;3,72;0,13;3,9;566;72,004;418,8;System In Line;System Ok;500;303,75;25-02-2023 00:26
+25-02-2023;00:26:29;Ballast;Running Ballast;294;0;3,83;3,7;0,13;3,9;565;71,994;419,2;System In Line;System Ok;500;303,125;25-02-2023 00:26
+25-02-2023;00:26:35;Ballast;Running Ballast;293;0;3,83;3,7;0,14;3,8;564;71,997;419,7;System In Line;System Ok;500;302,5;25-02-2023 00:26
+25-02-2023;00:26:40;Ballast;Running Ballast;296;0;3,85;3,7;0,14;3,8;564;72,005;420,1;System In Line;System Ok;500;302,5;25-02-2023 00:26
+25-02-2023;00:26:46;Ballast;Running Ballast;301;0;3,83;3,69;0,14;3,8;564;71,991;420,6;System In Line;System Ok;500;302,5;25-02-2023 00:26
+25-02-2023;00:26:51;Ballast;Running Ballast;302;0;3,85;3,71;0,14;3,7;565;71,999;421;System In Line;System Ok;500;303,125;25-02-2023 00:26
+25-02-2023;00:26:57;Ballast;Running Ballast;288;0;3,83;3,69;0,14;3,6;565;72,007;421,5;System In Line;System Ok;500;303,125;25-02-2023 00:26
+25-02-2023;00:27:02;Ballast;Running Ballast;303;0;3,82;3,67;0,15;3,5;565;71,99;421,9;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:08;Ballast;Running Ballast;310;0;3,82;3,66;0,15;3,5;565;72,003;422,4;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:13;Ballast;Running Ballast;309;0;3,8;3,65;0,15;3,5;565;72,013;422,8;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:19;Ballast;Running Ballast;311;0;3,82;3,68;0,15;3,4;565;71,994;423,4;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:24;Ballast;Running Ballast;311;0;3,82;3,66;0,15;3,4;565;72,006;423,8;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:30;Ballast;Running Ballast;304;0;3,82;3,66;0,16;3,3;565;71,997;424,3;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:35;Ballast;Running Ballast;304;0;3,81;3,66;0,16;3,3;565;72,01;424,7;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:41;Ballast;Running Ballast;305;0;3,82;3,66;0,15;3,3;565;71,995;425,2;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:46;Ballast;Running Ballast;303;0;3,81;3,66;0,15;3,2;565;72,013;425,7;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:52;Ballast;Running Ballast;302;0;3,82;3,66;0,16;3,2;565;71,991;426,2;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:27:57;Ballast;Running Ballast;305;0;3,82;3,65;0,16;3,2;565;72,012;426,6;System In Line;System Ok;500;303,125;25-02-2023 00:27
+25-02-2023;00:28:03;Ballast;Running Ballast;303;0;3,82;3,65;0,16;3,1;565;71,995;427,1;System In Line;System Ok;500;303,125;25-02-2023 00:28
+25-02-2023;00:28:08;Ballast;Running Ballast;303;0;3,81;3,66;0,16;3,1;565;72,005;427,5;System In Line;System Ok;500;303,125;25-02-2023 00:28
+25-02-2023;00:28:14;Ballast;Running Ballast;289;0;3,83;3,66;0,16;3,1;564;71,992;428;System In Line;System Ok;500;302,5;25-02-2023 00:28
+25-02-2023;00:28:19;Ballast;Running Ballast;303;0;3,82;3,64;0,17;3,1;563;72,013;428,4;System In Line;System Ok;500;301,875;25-02-2023 00:28
+25-02-2023;00:28:25;Ballast;Running Ballast;305;0;3,82;3,66;0,16;3;563;71,995;428,9;System In Line;System Ok;500;301,875;25-02-2023 00:28
+25-02-2023;00:28:30;Ballast;Running Ballast;306;0;3,81;3,65;0,16;3;564;72,002;429,4;System In Line;System Ok;500;301,875;25-02-2023 00:28
+25-02-2023;00:28:36;Ballast;Running Ballast;295;0;3,82;3,65;0,16;3;564;71,994;429,8;System In Line;System Ok;500;302,5;25-02-2023 00:28
+25-02-2023;00:28:41;Ballast;Running Ballast;306;0;3,81;3,65;0,17;3;564;71,991;430,3;System In Line;System Ok;500;302,5;25-02-2023 00:28
+25-02-2023;00:28:47;Ballast;Running Ballast;301;0;3,81;3,64;0,17;2,9;564;71,995;430,8;System In Line;System Ok;500;302,5;25-02-2023 00:28
+25-02-2023;00:28:52;Ballast;Running Ballast;305;0;3,82;3,64;0,17;2,9;564;72,004;431,2;System In Line;System Ok;500;302,5;25-02-2023 00:28
+25-02-2023;00:28:58;Ballast;Running Ballast;300;0;3,82;3,64;0,18;2,9;564;71,994;431,7;System In Line;System Ok;500;302,5;25-02-2023 00:28
+25-02-2023;00:29:03;Ballast;Running Ballast;303;0;3,83;3,64;0,18;2,9;564;72,001;432,1;System In Line;System Ok;500;302,5;25-02-2023 00:29
+25-02-2023;00:29:09;Ballast;Running Ballast;306;0;3,81;3,64;0,18;2,8;564;71,999;432,6;System In Line;System Ok;500;302,5;25-02-2023 00:29
+25-02-2023;00:29:14;Ballast;Running Ballast;303;0;3,83;3,64;0,18;2,8;564;72,001;433;System In Line;System Ok;500;302,5;25-02-2023 00:29
+25-02-2023;00:29:20;Ballast;Running Ballast;301;0;3,83;3,64;0,18;2,8;564;71,995;433,5;System In Line;System Ok;500;302,5;25-02-2023 00:29
+25-02-2023;00:29:25;Ballast;Running Ballast;304;0;3,82;3,64;0,19;2,8;564;71,997;434;System In Line;System Ok;500;302,5;25-02-2023 00:29
+25-02-2023;00:29:31;Ballast;Running Ballast;308;0;3,83;3,64;0,18;2,8;563;71,99;434,5;System In Line;System Ok;500;301,875;25-02-2023 00:29
+25-02-2023;00:29:36;Ballast;Running Ballast;303;0;3,82;3,63;0,18;2,8;563;72,006;434,9;System In Line;System Ok;500;301,875;25-02-2023 00:29
+25-02-2023;00:29:42;Ballast;Running Ballast;313;0;3,82;3,64;0,18;2,8;563;72,004;435,4;System In Line;System Ok;500;301,875;25-02-2023 00:29
+25-02-2023;00:29:47;Ballast;Running Ballast;305;0;3,82;3,64;0,18;2,7;563;71,999;435,8;System In Line;System Ok;500;301,875;25-02-2023 00:29
+25-02-2023;00:29:53;Ballast;Running Ballast;302;0;3,83;3,63;0,19;2,7;563;71,981;436,3;System In Line;System Ok;500;301,875;25-02-2023 00:29
+25-02-2023;00:29:58;Ballast;Running Ballast;303;0;3,83;3,64;0,19;2,7;563;72,001;436,8;System In Line;System Ok;500;301,875;25-02-2023 00:29
+25-02-2023;00:30:04;Ballast;Running Ballast;298;0;3,86;3,68;0,18;2,7;563;72,003;437,3;System In Line;System Ok;500;301,875;25-02-2023 00:30
+25-02-2023;00:30:09;Ballast;Running Ballast;291;0;3,86;3,67;0,18;2,7;563;72,018;437,7;System In Line;System Ok;500;301,875;25-02-2023 00:30
+25-02-2023;00:30:15;Ballast;Running Ballast;290;0;3,86;3,67;0,18;2,7;563;72,006;438,2;System In Line;System Ok;500;301,875;25-02-2023 00:30
+25-02-2023;00:30:20;Ballast;Running Ballast;291;0;3,84;3,65;0,19;2,7;563;71,999;438,6;System In Line;System Ok;500;301,875;25-02-2023 00:30
+25-02-2023;00:30:26;Ballast;Running Ballast;294;0;3,84;3,64;0,19;2,6;563;71,998;439,1;System In Line;System Ok;500;301,875;25-02-2023 00:30
+25-02-2023;00:30:31;Ballast;Filter Flushing;294;0;3,84;3,65;0,19;2,6;562;72,012;439,5;System In Line;System Ok;500;301,25;25-02-2023 00:30
+25-02-2023;00:30:37;Ballast;Filter Flushing;318;28;3,75;3,7;0,14;2,6;561;72,005;440;System In Line;System Ok;500;300,625;25-02-2023 00:30
+25-02-2023;00:30:42;Ballast;Running Ballast;328;48;3,77;3,72;0,08;2,6;562;71,989;440,4;System In Line;System Ok;500;301,25;25-02-2023 00:30
+25-02-2023;00:30:48;Ballast;Running Ballast;315;25;3,83;3,78;0,05;2,6;562;71,997;441;System In Line;System Ok;500;301,25;25-02-2023 00:30
+25-02-2023;00:30:53;Ballast;Running Ballast;287;3;3,84;3,81;0,05;2,6;562;71,992;441,4;System In Line;System Ok;500;301,25;25-02-2023 00:30
+25-02-2023;00:30:59;Ballast;Running Ballast;291;0;3,85;3,8;0,04;2,6;563;71,991;441,9;System In Line;System Ok;500;301,25;25-02-2023 00:30
+25-02-2023;00:31:04;Ballast;Running Ballast;292;0;3,84;3,8;0,04;2,6;563;72,002;442,3;System In Line;System Ok;500;301,875;25-02-2023 00:31
+25-02-2023;00:31:10;Ballast;Running Ballast;292;0;3,84;3,79;0,04;2,6;562;72,01;442,8;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:15;Ballast;Running Ballast;293;0;3,82;3,78;0,04;2,5;562;72,003;443,2;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:21;Ballast;Running Ballast;299;0;3,83;3,78;0,04;2,5;562;72,004;443,7;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:26;Ballast;Running Ballast;300;0;3,82;3,77;0,05;2,5;562;71,999;444,1;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:32;Ballast;Running Ballast;291;0;3,82;3,78;0,05;2,5;562;71,999;444,6;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:37;Ballast;Running Ballast;295;0;3,8;3,76;0,04;2,5;562;72,003;445;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:43;Ballast;Running Ballast;294;0;3,83;3,77;0,05;2,5;562;71,996;445,5;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:48;Ballast;Running Ballast;297;0;3,83;3,8;0,05;2,5;562;72,001;445,9;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:54;Ballast;Running Ballast;300;0;3,83;3,79;0,04;2,5;562;72,007;446,4;System In Line;System Ok;500;301,25;25-02-2023 00:31
+25-02-2023;00:31:59;Ballast;Running Ballast;295;0;3,82;3,79;0,04;2,5;560;72,004;446,8;System In Line;System Ok;500;300;25-02-2023 00:31
+25-02-2023;00:32:05;Ballast;Running Ballast;298;0;3,83;3,77;0,04;2,5;561;72,006;447,3;System In Line;System Ok;500;300,625;25-02-2023 00:32
+25-02-2023;00:32:10;Ballast;Running Ballast;300;0;3,76;3,71;0,05;2,5;561;72,006;447,7;System In Line;System Ok;500;300,625;25-02-2023 00:32
+25-02-2023;00:32:16;Ballast;Running Ballast;320;0;3,76;3,7;0,04;2,5;561;72,009;448,2;System In Line;System Ok;500;300,625;25-02-2023 00:32
+25-02-2023;00:32:21;Ballast;Running Ballast;316;0;3,77;3,73;0,04;2,5;561;72,005;448,7;System In Line;System Ok;500;300,625;25-02-2023 00:32
+25-02-2023;00:32:27;Ballast;Running Ballast;310;0;3,81;3,76;0,05;2,4;561;71,995;449,2;System In Line;System Ok;500;300,625;25-02-2023 00:32
+25-02-2023;00:32:32;Ballast;Running Ballast;305;0;3,8;3,74;0,05;2,4;559;71,997;449,6;System In Line;System Ok;500;299,375;25-02-2023 00:32
+25-02-2023;00:32:38;Ballast;Running Ballast;306;0;3,81;3,75;0,05;2,4;559;72,004;450,1;System In Line;System Ok;500;299,375;25-02-2023 00:32
+25-02-2023;00:32:43;Ballast;Running Ballast;304;0;3,81;3,75;0,06;2,4;560;71,996;450,6;System In Line;System Ok;500;300;25-02-2023 00:32
+25-02-2023;00:32:49;Ballast;Running Ballast;304;0;3,81;3,77;0,05;2,4;560;72,012;451,1;System In Line;System Ok;500;300;25-02-2023 00:32
+25-02-2023;00:32:54;Ballast;Running Ballast;304;0;3,81;3,77;0,05;2,4;560;71,998;451,5;System In Line;System Ok;500;300;25-02-2023 00:32
+25-02-2023;00:33:00;Ballast;Running Ballast;304;0;3,81;3,77;0,05;2,4;559;71,992;452;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:05;Ballast;Running Ballast;306;0;3,85;3,8;0,04;2,4;558;72,009;452,4;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:11;Ballast;Running Ballast;277;0;3,89;3,85;0,05;2,4;558;72,004;452,9;System In Line;System Ok;500;298,75;25-02-2023 00:33
+25-02-2023;00:33:16;Ballast;Running Ballast;277;0;3,88;3,83;0,05;2,4;558;71,988;453,3;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:22;Ballast;Running Ballast;284;0;3,86;3,82;0,05;2,4;558;72,008;453,7;System In Line;System Ok;500;298,75;25-02-2023 00:33
+25-02-2023;00:33:27;Ballast;Running Ballast;282;0;3,87;3,83;0,04;2,4;558;72,001;454,1;System In Line;System Ok;500;298,75;25-02-2023 00:33
+25-02-2023;00:33:33;Ballast;Running Ballast;304;0;3,79;3,74;0,04;2,4;559;71,994;454,6;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:38;Ballast;Running Ballast;305;0;3,8;3,74;0,05;2,4;559;72,009;455,1;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:44;Ballast;Running Ballast;305;0;3,82;3,76;0,05;2,4;559;71,994;455,6;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:49;Ballast;Running Ballast;300;0;3,8;3,75;0,05;2,4;559;72,008;456;System In Line;System Ok;500;299,375;25-02-2023 00:33
+25-02-2023;00:33:55;Ballast;Running Ballast;304;0;3,79;3,74;0,05;2,4;558;72,015;456,5;System In Line;System Ok;500;298,75;25-02-2023 00:33
+25-02-2023;00:34:00;Ballast;Running Ballast;304;0;3,79;3,74;0,06;2,4;558;72,012;456,9;System In Line;System Ok;500;298,75;25-02-2023 00:34
+25-02-2023;00:34:06;Ballast;Running Ballast;304;0;3,8;3,74;0,05;2,4;558;72,004;457,4;System In Line;System Ok;500;298,75;25-02-2023 00:34
+25-02-2023;00:34:11;Ballast;Running Ballast;303;0;3,81;3,74;0,05;2,4;558;72,001;457,8;System In Line;System Ok;500;298,75;25-02-2023 00:34
+25-02-2023;00:34:17;Ballast;Running Ballast;301;0;3,82;3,77;0,05;2,4;558;72,003;458,3;System In Line;System Ok;500;298,75;25-02-2023 00:34
+25-02-2023;00:34:22;Ballast;Running Ballast;292;0;3,82;3,77;0,06;2,4;557;71,994;458,7;System In Line;System Ok;500;298,125;25-02-2023 00:34
+25-02-2023;00:34:28;Ballast;Running Ballast;294;0;3,83;3,77;0,06;2,4;557;71,993;459,2;System In Line;System Ok;500;298,125;25-02-2023 00:34
+25-02-2023;00:34:33;Ballast;Running Ballast;293;0;3,82;3,76;0,06;2,3;557;71,987;459,6;System In Line;System Ok;500;298,125;25-02-2023 00:34
+25-02-2023;00:34:39;Ballast;Running Ballast;295;0;3,82;3,76;0,06;2,3;556;71,997;460,1;System In Line;System Ok;500;297,5;25-02-2023 00:34
+25-02-2023;00:34:44;Ballast;Running Ballast;295;0;3,82;3,76;0,06;2,3;556;72;460,5;System In Line;System Ok;500;297,5;25-02-2023 00:34
+25-02-2023;00:34:50;Ballast;Running Ballast;294;0;3,83;3,76;0,06;2,3;556;71,995;461;System In Line;System Ok;500;297,5;25-02-2023 00:34
+25-02-2023;00:34:55;Ballast;Running Ballast;294;0;3,82;3,76;0,06;2,3;556;71,995;461,4;System In Line;System Ok;500;297,5;25-02-2023 00:34
+25-02-2023;00:35:01;Ballast;Running Ballast;294;0;3,81;3,75;0,06;2,4;556;72,007;461,9;System In Line;System Ok;500;297,5;25-02-2023 00:35
+25-02-2023;00:35:06;Ballast;Running Ballast;292;0;3,8;3,75;0,06;2,4;556;71,995;462,3;System In Line;System Ok;500;297,5;25-02-2023 00:35
+25-02-2023;00:35:12;Ballast;Running Ballast;294;0;3,79;3,73;0,05;2,4;557;72,007;462,8;System In Line;System Ok;500;297,5;25-02-2023 00:35
+25-02-2023;00:35:17;Ballast;Running Ballast;300;0;3,8;3,73;0,06;2,4;556;72,001;463,2;System In Line;System Ok;500;297,5;25-02-2023 00:35
+25-02-2023;00:35:23;Ballast;Running Ballast;301;0;3,8;3,73;0,06;2,6;555;71,998;463,7;System In Line;System Ok;500;296,875;25-02-2023 00:35
+25-02-2023;00:35:28;Ballast;Running Ballast;297;0;3,8;3,73;0,06;2,8;556;71,995;464,1;System In Line;System Ok;500;297,5;25-02-2023 00:35
+25-02-2023;00:35:34;Ballast;Running Ballast;298;0;3,81;3,76;0,06;3,1;557;72,006;464,6;System In Line;System Ok;500;298,125;25-02-2023 00:35
+25-02-2023;00:35:39;Ballast;Running Ballast;294;0;3,83;3,75;0,07;3,4;557;71,994;465,1;System In Line;System Ok;500;298,125;25-02-2023 00:35
+25-02-2023;00:35:45;Ballast;Running Ballast;298;0;3,82;3,77;0,06;3,7;557;71,992;465,6;System In Line;System Ok;500;298,125;25-02-2023 00:35
+25-02-2023;00:35:50;Ballast;Running Ballast;297;0;3,81;3,74;0,06;3,9;557;71,998;466;System In Line;System Ok;500;298,125;25-02-2023 00:35
+25-02-2023;00:35:56;Ballast;Running Ballast;293;0;3,82;3,75;0,07;4,1;557;72,001;466,5;System In Line;System Ok;500;298,125;25-02-2023 00:35
+25-02-2023;00:36:01;Ballast;Running Ballast;297;0;3,82;3,75;0,07;4,1;557;71,997;466,9;System In Line;System Ok;500;298,125;25-02-2023 00:36
+25-02-2023;00:36:07;Ballast;Running Ballast;300;0;3,84;3,76;0,07;4,2;557;72,006;467,4;System In Line;System Ok;500;298,125;25-02-2023 00:36
+25-02-2023;00:36:12;Ballast;Running Ballast;294;0;3,83;3,75;0,07;4,3;556;72,003;467,8;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:18;Ballast;Running Ballast;297;0;3,83;3,76;0,07;4,3;556;72,008;468,3;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:23;Ballast;Running Ballast;295;0;3,82;3,75;0,07;4,3;556;72,001;468,7;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:29;Ballast;Running Ballast;297;0;3,83;3,75;0,07;4,3;556;72,005;469,2;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:34;Ballast;Running Ballast;293;0;3,83;3,76;0,07;4,3;556;72,003;469,6;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:40;Ballast;Running Ballast;292;0;3,81;3,75;0,07;4,3;556;72,008;470,1;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:45;Ballast;Running Ballast;294;0;3,82;3,76;0,07;4,3;556;71,998;470,5;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:51;Ballast;Running Ballast;299;0;3,83;3,75;0,07;4,2;556;72;471;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:36:56;Ballast;Running Ballast;297;0;3,84;3,75;0,08;4,2;555;71,999;471,4;System In Line;System Ok;500;297,5;25-02-2023 00:36
+25-02-2023;00:37:02;Ballast;Running Ballast;297;0;3,83;3,75;0,08;4,2;555;71,99;471,9;System In Line;System Ok;500;296,875;25-02-2023 00:37
+25-02-2023;00:37:07;Ballast;Running Ballast;296;0;3,83;3,74;0,08;4,1;555;71,999;472,3;System In Line;System Ok;500;296,875;25-02-2023 00:37
+25-02-2023;00:37:13;Ballast;Running Ballast;295;0;3,83;3,73;0,08;4,1;555;71,983;472,8;System In Line;System Ok;500;296,875;25-02-2023 00:37
+25-02-2023;00:37:18;Ballast;Running Ballast;294;0;3,82;3,74;0,09;4;555;71,985;473,2;System In Line;System Ok;500;296,875;25-02-2023 00:37
+25-02-2023;00:37:24;Ballast;Running Ballast;296;0;3,84;3,75;0,08;3,8;554;72,004;473,7;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:37:29;Ballast;Running Ballast;295;0;3,84;3,75;0,09;3,6;554;72,003;474,1;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:37:35;Ballast;Running Ballast;294;0;3,84;3,75;0,09;3,5;554;71,992;474,6;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:37:40;Ballast;Running Ballast;293;0;3,83;3,75;0,09;3,4;554;72,002;475;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:37:46;Ballast;Running Ballast;292;0;3,83;3,75;0,09;3,4;554;71,999;475,5;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:37:51;Ballast;Running Ballast;311;0;3,78;3,68;0,09;3,2;554;72;475,9;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:37:57;Ballast;Running Ballast;311;0;3,78;3,68;0,09;3,2;554;71,996;476,4;System In Line;System Ok;500;296,25;25-02-2023 00:37
+25-02-2023;00:38:02;Ballast;Running Ballast;311;0;3,81;3,71;0,09;3;554;71,999;476,8;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:08;Ballast;Running Ballast;298;0;3,81;3,73;0,09;3;554;71,994;477,4;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:13;Ballast;Running Ballast;294;0;3,82;3,73;0,09;3;554;71,992;477,8;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:19;Ballast;Running Ballast;293;0;3,83;3,74;0,09;2,9;554;71,999;478,3;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:24;Ballast;Running Ballast;295;0;3,84;3,74;0,09;2,9;554;71,995;478,7;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:30;Ballast;Running Ballast;295;0;3,83;3,72;0,1;2,8;554;71,997;479,2;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:35;Ballast;Running Ballast;296;0;3,83;3,73;0,1;2,8;555;71,993;479,6;System In Line;System Ok;500;296,875;25-02-2023 00:38
+25-02-2023;00:38:41;Ballast;Running Ballast;295;0;3,82;3,73;0,1;2,8;554;72,003;480,1;System In Line;System Ok;500;296,25;25-02-2023 00:38
+25-02-2023;00:38:46;Ballast;Running Ballast;297;0;3,81;3,71;0,1;2,7;555;71,999;480,5;System In Line;System Ok;500;296,875;25-02-2023 00:38
+25-02-2023;00:38:52;Ballast;Running Ballast;299;0;3,83;3,72;0,1;2,7;555;71,993;481;System In Line;System Ok;500;296,875;25-02-2023 00:38
+25-02-2023;00:38:57;Ballast;Running Ballast;295;0;3,83;3,72;0,1;2,7;555;71,993;481,4;System In Line;System Ok;500;296,875;25-02-2023 00:38
+25-02-2023;00:39:03;Ballast;Running Ballast;298;0;3,83;3,73;0,1;2,7;555;72,003;481,9;System In Line;System Ok;500;296,875;25-02-2023 00:39
+25-02-2023;00:39:08;Ballast;Running Ballast;296;0;3,81;3,7;0,1;2,6;555;71,994;482,3;System In Line;System Ok;500;296,875;25-02-2023 00:39
+25-02-2023;00:39:14;Ballast;Running Ballast;296;0;3,82;3,71;0,1;2,6;555;72,01;482,8;System In Line;System Ok;500;296,875;25-02-2023 00:39
+25-02-2023;00:39:19;Ballast;Running Ballast;296;0;3,82;3,72;0,1;2,6;555;71,996;483,2;System In Line;System Ok;500;296,875;25-02-2023 00:39
+25-02-2023;00:39:25;Ballast;Running Ballast;297;0;3,83;3,72;0,1;2,6;555;71,99;483,7;System In Line;System Ok;500;296,875;25-02-2023 00:39
+25-02-2023;00:39:30;Ballast;Running Ballast;297;0;3,81;3,71;0,11;2,5;555;71,989;484,1;System In Line;System Ok;500;296,875;25-02-2023 00:39
+25-02-2023;00:39:36;Ballast;Running Ballast;298;0;3,82;3,71;0,11;2,5;556;71,996;484,6;System In Line;System Ok;500;297,5;25-02-2023 00:39
+25-02-2023;00:39:41;Ballast;Running Ballast;303;0;3,82;3,7;0,11;2,5;556;72,001;485;System In Line;System Ok;500;297,5;25-02-2023 00:39
+25-02-2023;00:39:47;Ballast;Running Ballast;300;0;3,82;3,71;0,11;2,5;556;72,007;485,5;System In Line;System Ok;500;297,5;25-02-2023 00:39
+25-02-2023;00:39:52;Ballast;Running Ballast;297;0;3,82;3,71;0,12;2,5;556;72,008;485,9;System In Line;System Ok;500;297,5;25-02-2023 00:39
+25-02-2023;00:39:58;Ballast;Running Ballast;294;0;3,84;3,72;0,11;2,4;556;72,013;486,4;System In Line;System Ok;500;297,5;25-02-2023 00:39
+25-02-2023;00:40:03;Ballast;Running Ballast;295;0;3,83;3,71;0,12;2,4;556;72,002;486,8;System In Line;System Ok;500;297,5;25-02-2023 00:40
+25-02-2023;00:40:09;Ballast;Running Ballast;292;0;3,83;3,71;0,12;2,4;556;72,001;487,3;System In Line;System Ok;500;297,5;25-02-2023 00:40
+25-02-2023;00:40:14;Ballast;Running Ballast;298;0;3,81;3,7;0,12;2,4;556;71,996;487,7;System In Line;System Ok;500;297,5;25-02-2023 00:40
+25-02-2023;00:40:20;Ballast;Running Ballast;297;0;3,83;3,71;0,12;2,4;556;71,998;488,2;System In Line;System Ok;500;297,5;25-02-2023 00:40
+25-02-2023;00:40:25;Ballast;Running Ballast;295;0;3,83;3,72;0,12;2,4;557;71,996;488,6;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:40:31;Ballast;Running Ballast;297;0;3,84;3,71;0,12;2,4;557;72,001;489,1;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:40:36;Ballast;Running Ballast;296;0;3,84;3,71;0,12;2,4;557;71,994;489,5;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:40:42;Ballast;Running Ballast;296;0;3,83;3,71;0,13;2,4;557;72,004;490;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:40:47;Ballast;Running Ballast;296;0;3,84;3,71;0,13;2,4;557;72,002;490,4;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:40:53;Ballast;Running Ballast;295;0;3,84;3,7;0,13;2,3;557;72,001;490,9;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:40:58;Ballast;Running Ballast;288;0;3,84;3,72;0,13;2,3;557;72,006;491,3;System In Line;System Ok;500;298,125;25-02-2023 00:40
+25-02-2023;00:41:04;Ballast;Running Ballast;295;0;3,83;3,7;0,13;2,3;557;71,997;491,8;System In Line;System Ok;500;298,125;25-02-2023 00:41
+25-02-2023;00:41:09;Ballast;Running Ballast;298;0;3,83;3,7;0,13;2,3;557;71,991;492,2;System In Line;System Ok;500;298,125;25-02-2023 00:41
+25-02-2023;00:41:15;Ballast;Running Ballast;300;0;3,84;3,7;0,13;2,3;557;72;492,7;System In Line;System Ok;500;298,125;25-02-2023 00:41
+25-02-2023;00:41:20;Ballast;Running Ballast;298;0;3,83;3,71;0,14;2,3;557;71,991;493,1;System In Line;System Ok;500;298,125;25-02-2023 00:41
+25-02-2023;00:41:26;Ballast;Running Ballast;295;0;3,84;3,7;0,13;2,3;558;71,992;493,6;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:41:31;Ballast;Running Ballast;295;0;3,82;3,67;0,14;2,3;558;72,002;494,1;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:41:37;Ballast;Running Ballast;302;0;3,81;3,66;0,15;2,3;558;72,002;494,5;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:41:42;Ballast;Running Ballast;303;0;3,81;3,67;0,14;2,3;558;71,996;495;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:41:48;Ballast;Running Ballast;301;0;3,81;3,66;0,14;2,3;558;71,997;495,5;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:41:53;Ballast;Running Ballast;296;0;3,84;3,69;0,14;2,3;558;71,996;495,9;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:41:59;Ballast;Running Ballast;293;0;3,83;3,69;0,14;2,3;558;72;496,4;System In Line;System Ok;500;298,75;25-02-2023 00:41
+25-02-2023;00:42:04;Ballast;Running Ballast;296;0;3,83;3,68;0,15;2,3;558;72,012;496,8;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:10;Ballast;Running Ballast;298;0;3,82;3,67;0,15;2,3;558;72,003;497,3;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:15;Ballast;Running Ballast;299;0;3,83;3,67;0,15;2,2;558;71,99;497,7;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:21;Ballast;Running Ballast;299;0;3,82;3,66;0,15;2,2;558;71,988;498,2;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:26;Ballast;Running Ballast;300;0;3,82;3,68;0,15;2,2;558;71,991;498,6;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:32;Ballast;Running Ballast;295;0;3,84;3,67;0,15;2,2;558;72,001;499,1;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:37;Ballast;Running Ballast;297;0;3,82;3,66;0,16;2,2;558;72,006;499,5;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:43;Ballast;Running Ballast;298;0;3,81;3,66;0,16;2,2;558;72,008;500;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:48;Ballast;Running Ballast;295;0;3,82;3,66;0,16;2,2;558;72,003;500,4;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:54;Ballast;Running Ballast;297;0;3,83;3,67;0,16;2,2;558;72,007;500,9;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:42:59;Ballast;Running Ballast;299;0;3,83;3,67;0,16;2,2;558;72,004;501,3;System In Line;System Ok;500;298,75;25-02-2023 00:42
+25-02-2023;00:43:05;Ballast;Running Ballast;298;0;3,82;3,66;0,16;2,2;558;71,996;501,8;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:11;Ballast;Running Ballast;298;0;3,83;3,66;0,16;2,2;558;71,991;502,2;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:16;Ballast;Running Ballast;301;0;3,82;3,65;0,17;2,2;558;72,001;502,7;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:21;Ballast;Running Ballast;298;0;3,83;3,66;0,17;2,2;558;71,999;503,2;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:27;Ballast;Running Ballast;302;0;3,84;3,66;0,17;2,2;558;71,996;503,7;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:32;Ballast;Running Ballast;301;0;3,83;3,65;0,18;2,2;558;72,006;504,1;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:38;Ballast;Running Ballast;298;0;3,83;3,65;0,18;2,2;558;72,009;504,6;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:43;Ballast;Running Ballast;298;0;3,83;3,65;0,18;2,2;558;71,992;505;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:49;Ballast;Running Ballast;300;0;3,82;3,65;0,18;2,2;558;72;505,5;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:43:54;Ballast;Running Ballast;295;0;3,83;3,65;0,17;2,2;558;72,005;505,9;System In Line;System Ok;500;298,75;25-02-2023 00:43
+25-02-2023;00:44:00;Ballast;Running Ballast;299;0;3,83;3,64;0,18;2,2;558;72,005;506,4;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:05;Ballast;Running Ballast;296;0;3,82;3,64;0,18;2,2;558;71,99;506,8;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:11;Ballast;Running Ballast;297;0;3,83;3,65;0,18;2,2;558;72,001;507,3;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:16;Ballast;Running Ballast;293;0;3,84;3,65;0,19;2,1;558;72,002;507,7;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:22;Ballast;Running Ballast;296;0;3,83;3,65;0,19;2,1;558;72,002;508,2;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:27;Ballast;Running Ballast;297;0;3,83;3,64;0,19;2,1;558;72,004;508,6;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:33;Ballast;Running Ballast;298;0;3,83;3,63;0,2;2,1;558;71,994;509,1;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:38;Ballast;Running Ballast;292;0;3,82;3,63;0,2;2,1;558;71,994;509,5;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:44;Ballast;Running Ballast;295;0;3,84;3,64;0,2;2,1;558;72,001;510;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:49;Ballast;Running Ballast;294;0;3,84;3,63;0,2;2,1;558;72;510,4;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:44:55;Ballast;Running Ballast;295;0;3,84;3,63;0,2;2,1;558;72,002;510,9;System In Line;System Ok;500;298,75;25-02-2023 00:44
+25-02-2023;00:45:00;Ballast;Running Ballast;311;0;3,77;3,56;0,21;2,1;557;72,003;511,3;System In Line;System Ok;500;298,125;25-02-2023 00:45
+25-02-2023;00:45:06;Ballast;Running Ballast;312;0;3,8;3,57;0,22;2,1;558;72;511,9;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:11;Ballast;Running Ballast;310;0;3,8;3,58;0,22;2,1;558;72,002;512,3;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:17;Ballast;Running Ballast;305;0;3,83;3,62;0,22;2,1;558;72,003;512,8;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:22;Ballast;Running Ballast;298;0;3,83;3,62;0,21;2,1;558;71,999;513,2;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:28;Ballast;Running Ballast;292;0;3,83;3,62;0,21;2,1;558;71,993;513,7;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:33;Ballast;Running Ballast;298;0;3,84;3,62;0,21;2,1;558;71,999;514,1;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:39;Ballast;Running Ballast;299;0;3,81;3,6;0,22;2,1;558;71,999;514,6;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:44;Ballast;Running Ballast;299;0;3,83;3,6;0,23;2,1;558;72,009;515;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:50;Ballast;Running Ballast;296;0;3,83;3,59;0,23;2,1;558;72,009;515,5;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:45:55;Ballast;Running Ballast;297;0;3,83;3,6;0,23;2,1;558;72,009;515,9;System In Line;System Ok;500;298,75;25-02-2023 00:45
+25-02-2023;00:46:01;Ballast;Running Ballast;296;0;3,82;3,6;0,23;2;558;72;516,4;System In Line;System Ok;500;298,75;25-02-2023 00:46
+25-02-2023;00:46:06;Ballast;Running Ballast;297;0;3,82;3,59;0,23;2;557;71,995;516,9;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:12;Ballast;Running Ballast;296;0;3,83;3,59;0,23;2;557;72,002;517,3;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:17;Ballast;Running Ballast;297;0;3,83;3,59;0,23;2;557;71,993;517,8;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:23;Ballast;Running Ballast;297;0;3,82;3,59;0,23;2;557;72;518,3;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:28;Ballast;Running Ballast;294;0;3,82;3,58;0,24;2;557;72,005;518,7;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:34;Ballast;Running Ballast;294;0;3,81;3,58;0,24;2;557;72,004;519,2;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:39;Ballast;Running Ballast;294;0;3,82;3,57;0,24;2;557;71,996;519,6;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:45;Ballast;Running Ballast;291;0;3,81;3,56;0,24;2;557;72,007;520,1;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:50;Ballast;Running Ballast;304;0;3,8;3,55;0,25;2;557;72,008;520,5;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:46:56;Ballast;Running Ballast;299;0;3,81;3,57;0,25;2;557;72,006;521;System In Line;System Ok;500;298,125;25-02-2023 00:46
+25-02-2023;00:47:01;Ballast;Running Ballast;295;0;3,82;3,56;0,25;2,1;557;72,014;521,4;System In Line;System Ok;500;298,125;25-02-2023 00:47
+25-02-2023;00:47:07;Ballast;Running Ballast;302;0;3,81;3,56;0,25;2,2;556;72,005;521,9;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:12;Ballast;Running Ballast;298;0;3,83;3,56;0,25;2,5;556;72,002;522,3;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:18;Ballast;Running Ballast;298;0;3,81;3,56;0,26;2,8;556;72,002;522,8;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:23;Ballast;Running Ballast;295;0;3,82;3,56;0,26;3,1;556;72,007;523,2;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:29;Ballast;Running Ballast;296;0;3,82;3,55;0,26;3,4;556;72,002;523,7;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:34;Ballast;Running Ballast;296;0;3,82;3,55;0,27;3,6;556;72,002;524,1;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:40;Ballast;Running Ballast;298;0;3,82;3,55;0,27;3,7;556;72,005;524,6;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:45;Ballast;Running Ballast;295;0;3,83;3,55;0,27;3,9;556;71,999;525;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:51;Ballast;Running Ballast;295;0;3,83;3,56;0,28;3,9;556;72,009;525,5;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:47:56;Ballast;Running Ballast;296;0;3,83;3,55;0,28;4;555;72;525,9;System In Line;System Ok;500;297,5;25-02-2023 00:47
+25-02-2023;00:48:02;Ballast;Running Ballast;293;0;3,83;3,54;0,28;4;556;72,005;526,4;System In Line;System Ok;500;297,5;25-02-2023 00:48
+25-02-2023;00:48:07;Ballast;Running Ballast;298;0;3,82;3,53;0,29;4;556;72,007;526,8;System In Line;System Ok;500;297,5;25-02-2023 00:48
+25-02-2023;00:48:13;Ballast;Running Ballast;297;0;3,82;3,53;0,29;4;556;71,998;527,3;System In Line;System Ok;500;297,5;25-02-2023 00:48
+25-02-2023;00:48:18;Ballast;Running Ballast;294;0;3,84;3,53;0,3;3,9;556;71,996;527,7;System In Line;System Ok;500;297,5;25-02-2023 00:48
+25-02-2023;00:48:24;Ballast;Running Ballast;297;0;3,83;3,54;0,3;3,9;555;72,006;528,2;System In Line;System Ok;500;296,875;25-02-2023 00:48
+25-02-2023;00:48:29;Ballast;Running Ballast;298;0;3,83;3,53;0,3;3,9;555;72,004;528,6;System In Line;System Ok;500;296,875;25-02-2023 00:48
+25-02-2023;00:48:35;Ballast;Running Ballast;299;0;3,81;3,52;0,3;3,9;555;72,009;529,1;System In Line;System Ok;500;296,875;25-02-2023 00:48
+25-02-2023;00:48:40;Ballast;Running Ballast;299;0;3,83;3,52;0,3;3,8;555;71,992;529,5;System In Line;System Ok;500;296,875;25-02-2023 00:48
+25-02-2023;00:48:46;Ballast;Filter Flushing;297;1;3,82;3,55;0,3;3,8;555;71,996;530;System In Line;System Ok;500;296,875;25-02-2023 00:48
+25-02-2023;00:48:51;Ballast;Filter Flushing;322;33;3,7;3,64;0,21;3,7;554;71,998;530,5;System In Line;System Ok;500;296,25;25-02-2023 00:48
+25-02-2023;00:48:57;Ballast;Filter Flushing;323;49;3,75;3,69;0,08;3,6;555;71,995;531;System In Line;System Ok;500;296,875;25-02-2023 00:48
+25-02-2023;00:49:02;Ballast;Running Ballast;321;31;3,85;3,79;0,06;3,6;555;72,012;531,5;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:08;Ballast;Running Ballast;273;6;3,91;3,88;0,05;3,5;555;72,004;531,9;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:13;Ballast;Running Ballast;274;0;3,88;3,83;0,04;3,4;555;71,998;532,3;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:19;Ballast;Running Ballast;277;0;3,89;3,84;0,04;3,3;555;72,002;532,8;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:24;Ballast;Running Ballast;295;0;3,81;3,76;0,04;3,3;555;72,008;533,2;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:30;Ballast;Running Ballast;302;0;3,82;3,78;0,04;3,2;555;72,007;533,7;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:35;Ballast;Running Ballast;297;0;3,82;3,78;0,04;3,1;555;72,01;534,1;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:41;Ballast;Running Ballast;298;0;3,83;3,79;0,04;3;555;72,001;534,6;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:46;Ballast;Running Ballast;297;0;3,83;3,79;0,04;3;555;71,996;535;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:52;Ballast;Running Ballast;297;0;3,83;3,79;0,04;3;555;72,008;535,5;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:49:57;Ballast;Running Ballast;296;0;3,84;3,79;0,04;2,9;555;72,01;535,9;System In Line;System Ok;500;296,875;25-02-2023 00:49
+25-02-2023;00:50:03;Ballast;Running Ballast;293;0;3,83;3,79;0,04;2,8;555;72,006;536,4;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:08;Ballast;Running Ballast;295;0;3,82;3,78;0,04;2,7;555;72;536,8;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:14;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,7;555;71,999;537,3;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:19;Ballast;Running Ballast;296;0;3,84;3,78;0,05;2,7;555;72,004;537,7;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:25;Ballast;Running Ballast;295;0;3,83;3,79;0,05;2,7;555;71,999;538,2;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:30;Ballast;Running Ballast;295;0;3,83;3,8;0,04;2,6;555;72,009;538,6;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:36;Ballast;Running Ballast;294;0;3,84;3,8;0,04;2,6;555;72,004;539,1;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:41;Ballast;Running Ballast;298;0;3,83;3,78;0,04;2,6;555;72,005;539,5;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:47;Ballast;Running Ballast;300;0;3,84;3,79;0,05;2,6;555;72,001;540;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:52;Ballast;Running Ballast;298;0;3,82;3,78;0,05;2,5;555;71,997;540,4;System In Line;System Ok;500;296,875;25-02-2023 00:50
+25-02-2023;00:50:58;Ballast;Running Ballast;299;0;3,83;3,79;0,05;2,5;556;71,998;540,9;System In Line;System Ok;500;297,5;25-02-2023 00:50
+25-02-2023;00:51:03;Ballast;Running Ballast;301;0;3,83;3,77;0,05;2,5;556;72,001;541,3;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:09;Ballast;Running Ballast;297;0;3,85;3,79;0,05;2,5;556;71,994;541,8;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:14;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,5;556;72,005;542,3;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:20;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,4;556;72,006;542,7;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:25;Ballast;Running Ballast;296;0;3,84;3,8;0,05;2,4;556;71,998;543,2;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:31;Ballast;Running Ballast;295;0;3,83;3,8;0,04;2,4;556;72,008;543,7;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:36;Ballast;Running Ballast;295;0;3,84;3,78;0,04;2,4;556;72,002;544,1;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:42;Ballast;Running Ballast;295;0;3,84;3,79;0,05;2,4;556;71,998;544,6;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:47;Ballast;Running Ballast;298;0;3,83;3,78;0,05;2,4;556;71,995;545;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:53;Ballast;Running Ballast;297;0;3,84;3,8;0,05;2,4;556;71,994;545,5;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:51:58;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,4;556;71,994;545,9;System In Line;System Ok;500;297,5;25-02-2023 00:51
+25-02-2023;00:52:04;Ballast;Running Ballast;296;0;3,84;3,78;0,05;2,3;556;72;546,4;System In Line;System Ok;500;297,5;25-02-2023 00:52
+25-02-2023;00:52:09;Ballast;Running Ballast;297;0;3,84;3,8;0,05;2,3;556;71,999;546,8;System In Line;System Ok;500;297,5;25-02-2023 00:52
+25-02-2023;00:52:15;Ballast;Running Ballast;295;0;3,84;3,8;0,04;2,3;556;72,008;547,3;System In Line;System Ok;500;297,5;25-02-2023 00:52
+25-02-2023;00:52:20;Ballast;Running Ballast;295;0;3,85;3,8;0,04;2,3;556;72,012;547,7;System In Line;System Ok;500;297,5;25-02-2023 00:52
+25-02-2023;00:52:26;Ballast;Running Ballast;298;0;3,84;3,8;0,04;2,3;557;72,001;548,2;System In Line;System Ok;500;298,125;25-02-2023 00:52
+25-02-2023;00:52:31;Ballast;Running Ballast;296;0;3,84;3,79;0,04;2,3;556;71,997;548,6;System In Line;System Ok;500;298,125;25-02-2023 00:52
+25-02-2023;00:52:37;Ballast;Running Ballast;298;0;3,83;3,78;0,04;2,3;556;72,001;549,1;System In Line;System Ok;500;297,5;25-02-2023 00:52
+25-02-2023;00:52:42;Ballast;Running Ballast;295;0;3,84;3,8;0,05;2,3;557;71,995;549,5;System In Line;System Ok;500;298,125;25-02-2023 00:52
+25-02-2023;00:52:48;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,3;557;72,013;550;System In Line;System Ok;500;298,125;25-02-2023 00:52
+25-02-2023;00:52:53;Ballast;Running Ballast;296;0;3,83;3,79;0,04;2,3;557;72,013;550,4;System In Line;System Ok;500;298,125;25-02-2023 00:52
+25-02-2023;00:52:59;Ballast;Running Ballast;294;0;3,85;3,79;0,05;2,3;557;72,009;550,9;System In Line;System Ok;500;298,125;25-02-2023 00:52
+25-02-2023;00:53:04;Ballast;Running Ballast;295;0;3,83;3,78;0,05;2,3;557;72,011;551,3;System In Line;System Ok;500;298,125;25-02-2023 00:53
+25-02-2023;00:53:10;Ballast;Running Ballast;297;0;3,84;3,8;0,05;2,3;557;71,996;551,8;System In Line;System Ok;500;298,125;25-02-2023 00:53
+25-02-2023;00:53:15;Ballast;Running Ballast;294;0;3,84;3,78;0,05;2,2;558;71,998;552,2;System In Line;System Ok;500;298,125;25-02-2023 00:53
+25-02-2023;00:53:21;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,2;557;72,001;552,7;System In Line;System Ok;500;298,125;25-02-2023 00:53
+25-02-2023;00:53:26;Ballast;Running Ballast;296;0;3,84;3,79;0,05;2,2;557;71,999;553,1;System In Line;System Ok;500;298,125;25-02-2023 00:53
+25-02-2023;00:53:32;Ballast;Running Ballast;296;0;3,85;3,8;0,05;2,2;558;71,999;553,6;System In Line;System Ok;500;298,75;25-02-2023 00:53
+25-02-2023;00:53:37;Ballast;Running Ballast;303;0;3,79;3,72;0,05;2,2;558;72,005;554;System In Line;System Ok;500;298,75;25-02-2023 00:53
+25-02-2023;00:53:43;Ballast;Running Ballast;309;0;3,81;3,75;0,06;2,2;558;72,001;554,5;System In Line;System Ok;500;298,75;25-02-2023 00:53
+25-02-2023;00:53:48;Ballast;Running Ballast;307;0;3,8;3,75;0,05;2,2;558;72,002;555;System In Line;System Ok;500;298,75;25-02-2023 00:53
+25-02-2023;00:53:54;Ballast;Running Ballast;308;0;3,82;3,77;0,05;2,2;558;72;555,5;System In Line;System Ok;500;298,75;25-02-2023 00:53
+25-02-2023;00:53:59;Ballast;Running Ballast;305;0;3,81;3,75;0,05;2,2;558;72,002;555,9;System In Line;System Ok;500;298,75;25-02-2023 00:53
+25-02-2023;00:54:05;Ballast;Running Ballast;306;0;3,85;3,78;0,06;2,2;558;71,998;556,4;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:10;Ballast;Running Ballast;298;0;3,84;3,79;0,05;2,2;558;72,004;556,8;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:16;Ballast;Running Ballast;296;0;3,85;3,8;0,05;2,2;558;72,001;557,3;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:21;Ballast;Running Ballast;294;0;3,85;3,79;0,05;2,2;558;72;557,7;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:27;Ballast;Running Ballast;298;0;3,84;3,79;0,05;2,2;558;71,999;558,2;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:32;Ballast;Running Ballast;297;0;3,84;3,78;0,05;2,1;558;71,999;558,6;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:38;Ballast;Running Ballast;296;0;3,84;3,78;0,06;2,1;558;71,993;559,1;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:43;Ballast;Running Ballast;297;0;3,84;3,78;0,05;2,1;558;72,006;559,5;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:49;Ballast;Running Ballast;298;0;3,84;3,78;0,05;2,1;558;71,998;560;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:54:54;Ballast;Running Ballast;297;0;3,84;3,78;0,05;2,1;558;72,001;560,4;System In Line;System Ok;500;298,75;25-02-2023 00:54
+25-02-2023;00:55:00;Ballast;Running Ballast;295;0;3,85;3,78;0,06;2,1;559;72,001;560,9;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:05;Ballast;Running Ballast;294;0;3,85;3,79;0,06;2,1;558;72,002;561,3;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:11;Ballast;Running Ballast;296;0;3,84;3,77;0,06;2,1;558;71,983;561,8;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:16;Ballast;Running Ballast;294;0;3,85;3,78;0,06;2,1;558;72,008;562,2;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:22;Ballast;Running Ballast;297;0;3,84;3,78;0,06;2,1;559;71,99;562,7;System In Line;System Ok;500;299,375;25-02-2023 00:55
+25-02-2023;00:55:27;Ballast;Running Ballast;297;0;3,83;3,77;0,05;2,1;559;72;563,2;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:33;Ballast;Running Ballast;296;0;3,84;3,78;0,06;2,1;558;72,008;563,6;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:38;Ballast;Running Ballast;296;0;3,83;3,78;0,05;2,1;558;71,995;564,1;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:44;Ballast;Running Ballast;302;0;3,82;3,76;0,06;2,1;558;71,987;564,6;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:49;Ballast;Running Ballast;304;0;3,84;3,78;0,06;2,1;558;72,002;565;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:55:55;Ballast;Running Ballast;298;0;3,83;3,78;0,06;2,1;558;71,997;565,5;System In Line;System Ok;500;298,75;25-02-2023 00:55
+25-02-2023;00:56:00;Ballast;Running Ballast;298;0;3,83;3,77;0,06;2,1;558;71,992;565,9;System In Line;System Ok;500;298,75;25-02-2023 00:56
+25-02-2023;00:56:06;Ballast;Running Ballast;297;0;3,84;3,77;0,06;2,1;559;72,002;566,4;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:11;Ballast;Running Ballast;297;0;3,83;3,77;0,06;2,1;559;71,997;566,8;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:17;Ballast;Running Ballast;295;0;3,83;3,77;0,06;2,1;559;71,998;567,3;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:22;Ballast;Running Ballast;299;0;3,83;3,75;0,06;2;559;72,001;567,7;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:28;Ballast;Running Ballast;299;0;3,83;3,77;0,06;2;559;71,993;568,2;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:33;Ballast;Running Ballast;300;0;3,83;3,76;0,06;2;559;71,999;568,6;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:39;Ballast;Running Ballast;299;0;3,83;3,77;0,06;2;559;72,004;569,1;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:44;Ballast;Running Ballast;300;0;3,84;3,76;0,06;2;559;71,992;569,5;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:50;Ballast;Running Ballast;297;0;3,83;3,77;0,06;2;559;71,994;570;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:56:55;Ballast;Running Ballast;299;0;3,83;3,77;0,07;2;559;71,999;570,4;System In Line;System Ok;500;299,375;25-02-2023 00:56
+25-02-2023;00:57:01;Ballast;Running Ballast;301;0;3,82;3,76;0,07;2;558;71,988;570,9;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:06;Ballast;Running Ballast;301;0;3,83;3,77;0,06;2;558;71,994;571,4;System In Line;System Ok;500;299,375;25-02-2023 00:57
+25-02-2023;00:57:12;Ballast;Running Ballast;300;0;3,82;3,76;0,06;2;558;72,002;571,9;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:18;Ballast;Running Ballast;299;0;3,83;3,76;0,07;2;558;72,002;572,3;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:23;Ballast;Running Ballast;300;0;3,83;3,77;0,07;2;558;71,995;572,8;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:28;Ballast;Running Ballast;299;0;3,82;3,75;0,07;2;558;71,996;573,2;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:34;Ballast;Running Ballast;298;0;3,82;3,76;0,06;2;558;71,999;573,7;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:39;Ballast;Running Ballast;297;0;3,83;3,76;0,07;2,1;558;72,006;574,1;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:45;Ballast;Running Ballast;299;0;3,84;3,76;0,07;2,1;558;72,004;574,6;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:50;Ballast;Running Ballast;300;0;3,84;3,77;0,07;2,1;558;71,997;575;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:57:56;Ballast;Running Ballast;297;0;3,84;3,77;0,07;2,2;558;71,999;575,5;System In Line;System Ok;500;298,75;25-02-2023 00:57
+25-02-2023;00:58:01;Ballast;Running Ballast;298;0;3,84;3,77;0,07;2,3;558;71,99;575,9;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:07;Ballast;Running Ballast;299;0;3,84;3,77;0,07;2,4;558;71,992;576,4;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:12;Ballast;Running Ballast;299;0;3,83;3,76;0,07;2,5;558;72;576,8;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:18;Ballast;Running Ballast;297;0;3,84;3,77;0,07;2,7;558;71,993;577,3;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:23;Ballast;Running Ballast;297;0;3,84;3,76;0,07;2,8;557;71,988;577,8;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:29;Ballast;Running Ballast;297;0;3,83;3,76;0,07;3;558;71,997;578,2;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:34;Ballast;Running Ballast;299;0;3,84;3,76;0,07;3,2;558;71,995;578,7;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:40;Ballast;Running Ballast;298;0;3,84;3,77;0,07;3,4;557;72,013;579,2;System In Line;System Ok;500;298,125;25-02-2023 00:58
+25-02-2023;00:58:45;Ballast;Running Ballast;298;0;3,83;3,76;0,07;3,5;557;72,006;579,6;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:51;Ballast;Running Ballast;299;0;3,84;3,77;0,07;3,6;557;72,004;580,1;System In Line;System Ok;500;298,75;25-02-2023 00:58
+25-02-2023;00:58:56;Ballast;Running Ballast;298;0;3,84;3,77;0,07;3,6;557;71,987;580,5;System In Line;System Ok;500;298,125;25-02-2023 00:58
+25-02-2023;00:59:02;Ballast;Running Ballast;298;0;3,83;3,76;0,07;3,7;557;72,005;581;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:07;Ballast;Running Ballast;297;0;3,84;3,76;0,07;3,7;557;72,013;581,4;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:13;Ballast;Running Ballast;296;0;3,85;3,76;0,08;3,7;557;72,002;581,9;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:18;Ballast;Running Ballast;296;0;3,83;3,77;0,08;3,7;557;72,009;582,3;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:24;Ballast;Running Ballast;299;0;3,84;3,76;0,08;3,6;557;72,005;582,8;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:29;Ballast;Running Ballast;297;0;3,85;3,76;0,08;3,5;557;72;583,2;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:35;Ballast;Running Ballast;296;0;3,85;3,76;0,09;3,4;557;72,003;583,7;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:40;Ballast;Running Ballast;297;0;3,84;3,76;0,09;3,3;557;72,005;584,1;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:46;Ballast;Running Ballast;297;0;3,84;3,75;0,09;3,2;557;72;584,6;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:52;Ballast;Running Ballast;294;0;3,84;3,77;0,08;3,1;557;72,002;585;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;00:59:57;Ballast;Running Ballast;296;0;3,84;3,76;0,08;3;557;72;585,5;System In Line;System Ok;500;298,125;25-02-2023 00:59
+25-02-2023;01:00:03;Ballast;Running Ballast;297;0;3,84;3,76;0,08;2,9;557;71,995;585,9;System In Line;System Ok;500;298,125;25-02-2023 01:00
+25-02-2023;01:00:09;Ballast;Running Ballast;296;0;3,84;3,75;0,08;2,9;557;71,997;586,4;System In Line;System Ok;500;298,125;25-02-2023 01:00
+25-02-2023;01:00:14;Ballast;Running Ballast;296;0;3,85;3,75;0,09;2,8;558;72,002;586,8;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:20;Ballast;Running Ballast;298;0;3,85;3,75;0,09;2,8;558;72,006;587,3;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:25;Ballast;Running Ballast;296;0;3,85;3,74;0,09;2,8;558;72,006;587,7;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:31;Ballast;Running Ballast;297;0;3,85;3,75;0,09;2,7;558;72,004;588,2;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:36;Ballast;Running Ballast;296;0;3,84;3,75;0,09;2,7;558;71,999;588,6;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:42;Ballast;Running Ballast;297;0;3,84;3,75;0,09;2,7;558;72;589,1;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:47;Ballast;Running Ballast;306;0;3,78;3,68;0,09;2,6;558;71,998;589,6;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:53;Ballast;Running Ballast;313;0;3,8;3,7;0,1;2,6;558;72,008;590,1;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:00:58;Ballast;Running Ballast;313;0;3,81;3,71;0,1;2,6;558;72,009;590,5;System In Line;System Ok;500;298,75;25-02-2023 01:00
+25-02-2023;01:01:04;Ballast;Running Ballast;306;0;3,84;3,75;0,1;2,6;558;72,012;591;System In Line;System Ok;500;298,75;25-02-2023 01:01
+25-02-2023;01:01:09;Ballast;Running Ballast;298;0;3,84;3,75;0,09;2,5;558;72,003;591,4;System In Line;System Ok;500;298,75;25-02-2023 01:01
+25-02-2023;01:01:15;Ballast;Running Ballast;294;0;3,84;3,74;0,09;2,5;558;71,999;591,9;System In Line;System Ok;500;298,75;25-02-2023 01:01
+25-02-2023;01:01:20;Ballast;Running Ballast;298;0;3,85;3,75;0,1;2,5;558;72,008;592,3;System In Line;System Ok;500;298,75;25-02-2023 01:01
+25-02-2023;01:01:26;Ballast;Running Ballast;296;0;3,84;3,74;0,1;2,5;558;71,997;592,8;System In Line;System Ok;500;298,75;25-02-2023 01:01
+25-02-2023;01:01:31;Ballast;Running Ballast;296;0;3,85;3,75;0,1;2,5;559;72,01;593,3;System In Line;System Ok;500;299,375;25-02-2023 01:01
+25-02-2023;01:01:37;Ballast;Running Ballast;298;0;3,83;3,74;0,1;2,5;559;72,005;593,8;System In Line;System Ok;500;299,375;25-02-2023 01:01
+25-02-2023;01:01:42;Ballast;Running Ballast;297;0;3,84;3,74;0,1;2,5;559;71,991;594,2;System In Line;System Ok;500;299,375;25-02-2023 01:01
+25-02-2023;01:01:48;Ballast;Running Ballast;298;0;3,86;3,74;0,1;2,4;559;72;594,7;System In Line;System Ok;500;299,375;25-02-2023 01:01
+25-02-2023;01:01:53;Ballast;Running Ballast;298;0;3,84;3,74;0,11;2,4;559;71,986;595,1;System In Line;System Ok;500;299,375;25-02-2023 01:01
+25-02-2023;01:01:59;Ballast;Running Ballast;298;0;3,84;3,75;0,1;2,4;559;72,015;595,6;System In Line;System Ok;500;299,375;25-02-2023 01:01
+25-02-2023;01:02:04;Ballast;Running Ballast;296;0;3,84;3,74;0,1;2,4;559;72,013;596;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:10;Ballast;Running Ballast;298;0;3,85;3,75;0,1;2,4;559;71,997;596,5;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:15;Ballast;Running Ballast;299;0;3,84;3,75;0,1;2,4;559;72,001;596,9;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:21;Ballast;Running Ballast;299;0;3,85;3,75;0,1;2,4;559;72,004;597,4;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:26;Ballast;Running Ballast;297;0;3,85;3,74;0,1;2,3;559;71,99;597,8;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:32;Ballast;Running Ballast;297;0;3,84;3,74;0,1;2,3;559;71,99;598,3;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:37;Ballast;Running Ballast;297;0;3,85;3,73;0,11;2,3;559;71,992;598,7;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:43;Ballast;Running Ballast;297;0;3,83;3,74;0,11;2,3;559;72,001;599,2;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:48;Ballast;Running Ballast;297;0;3,85;3,74;0,1;2,3;559;71,992;599,6;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:54;Ballast;Running Ballast;296;0;3,85;3,74;0,11;2,3;559;72,005;600,1;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:02:59;Ballast;Running Ballast;298;0;3,85;3,75;0,11;2,3;559;71,998;600,5;System In Line;System Ok;500;299,375;25-02-2023 01:02
+25-02-2023;01:03:05;Ballast;Running Ballast;297;0;3,84;3,74;0,1;2,3;559;72,003;601;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:10;Ballast;Running Ballast;298;0;3,84;3,72;0,11;2,3;559;72,013;601,4;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:16;Ballast;Running Ballast;297;0;3,84;3,72;0,12;2,3;559;72,003;601,9;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:21;Ballast;Running Ballast;301;0;3,85;3,74;0,12;2,3;559;71,997;602,4;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:27;Ballast;Running Ballast;298;0;3,85;3,74;0,11;2,3;559;72,001;602,9;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:32;Ballast;Running Ballast;298;0;3,84;3,74;0,11;2,3;559;72,001;603,3;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:38;Ballast;Running Ballast;298;0;3,85;3,73;0,11;2,3;559;72,009;603,8;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:43;Ballast;Running Ballast;295;0;3,84;3,73;0,11;2,3;559;71,996;604,2;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:49;Ballast;Running Ballast;299;0;3,83;3,72;0,11;2,2;559;72,003;604,7;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:03:54;Ballast;Running Ballast;300;0;3,83;3,71;0,11;2,2;559;71,998;605,1;System In Line;System Ok;500;299,375;25-02-2023 01:03
+25-02-2023;01:04:00;Ballast;Running Ballast;299;0;3,83;3,7;0,12;2,2;559;72,006;605,6;System In Line;System Ok;500;299,375;25-02-2023 01:04
+25-02-2023;01:04:05;Ballast;Running Ballast;301;0;3,84;3,71;0,12;2,2;560;71,997;606;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:10;Ballast;Running Ballast;300;0;3,84;3,72;0,13;2,2;560;72,013;606,5;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:15;Ballast;Running Ballast;299;0;3,83;3,71;0,13;2,2;560;71,997;606,9;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:21;Ballast;Running Ballast;300;0;3,85;3,72;0,12;2,2;560;72,018;607,4;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:26;Ballast;Running Ballast;300;0;3,84;3,73;0,12;2,2;560;71,996;607,8;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:32;Ballast;Running Ballast;299;0;3,85;3,72;0,12;2,2;560;72,003;608,3;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:37;Ballast;Running Ballast;301;0;3,84;3,7;0,12;2,2;560;71,994;608,8;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:43;Ballast;Running Ballast;300;0;3,84;3,71;0,12;2,2;560;72,012;609,3;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:48;Ballast;Running Ballast;299;0;3,84;3,71;0,13;2,2;560;72,001;609,7;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:54;Ballast;Running Ballast;300;0;3,84;3,71;0,13;2,2;560;71,996;610,2;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:04:59;Ballast;Running Ballast;299;0;3,86;3,71;0,14;2,2;560;71,995;610,6;System In Line;System Ok;500;300;25-02-2023 01:04
+25-02-2023;01:05:05;Ballast;Running Ballast;294;0;3,84;3,71;0,14;2,2;559;71,995;611,1;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:11;Ballast;Running Ballast;299;0;3,84;3,71;0,13;2,2;560;72,004;611,5;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:16;Ballast;Running Ballast;297;0;3,83;3,71;0,14;2,2;560;72,001;612;System In Line;System Ok;500;300;25-02-2023 01:05
+25-02-2023;01:05:21;Ballast;Running Ballast;297;0;3,85;3,71;0,14;2,2;559;71,993;612,4;System In Line;System Ok;500;300;25-02-2023 01:05
+25-02-2023;01:05:27;Ballast;Running Ballast;299;0;3,85;3,71;0,14;2,2;559;72,001;612,9;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:32;Ballast;Running Ballast;298;0;3,85;3,71;0,14;2,1;559;72,001;613,3;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:38;Ballast;Running Ballast;299;0;3,85;3,7;0,14;2,1;559;71,997;613,8;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:43;Ballast;Running Ballast;295;0;3,84;3,7;0,14;2,1;559;72,003;614,2;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:49;Ballast;Running Ballast;299;0;3,84;3,7;0,14;2,1;559;71,995;614,7;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:05:54;Ballast;Running Ballast;298;0;3,84;3,7;0,14;2,1;559;71,997;615,1;System In Line;System Ok;500;299,375;25-02-2023 01:05
+25-02-2023;01:06:00;Ballast;Running Ballast;299;0;3,85;3,7;0,14;2,1;559;72,006;615,6;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:05;Ballast;Running Ballast;298;0;3,84;3,7;0,15;2,1;559;71,987;616;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:11;Ballast;Running Ballast;296;0;3,85;3,71;0,15;2,1;558;72;616,5;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:16;Ballast;Running Ballast;297;0;3,85;3,71;0,14;2,1;558;71,997;617;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:22;Ballast;Running Ballast;298;0;3,85;3,7;0,14;2,1;558;71,988;617,4;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:27;Ballast;Running Ballast;298;0;3,85;3,69;0,15;2,1;558;72,002;617,9;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:33;Ballast;Running Ballast;297;0;3,84;3,7;0,15;2,1;558;71,993;618,4;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:38;Ballast;Running Ballast;297;0;3,85;3,69;0,15;2,1;558;72,001;618,8;System In Line;System Ok;500;298,75;25-02-2023 01:06
+25-02-2023;01:06:44;Ballast;Running Ballast;300;0;3,86;3,7;0,15;2,1;557;72,005;619,3;System In Line;System Ok;500;298,125;25-02-2023 01:06
+25-02-2023;01:06:49;Ballast;Running Ballast;297;0;3,84;3,69;0,15;2,1;557;71,999;619,7;System In Line;System Ok;500;298,125;25-02-2023 01:06
+25-02-2023;01:06:55;Ballast;Running Ballast;297;0;3,86;3,69;0,15;2,1;557;72,009;620,2;System In Line;System Ok;500;298,125;25-02-2023 01:06
+25-02-2023;01:07:00;Ballast;Running Ballast;298;0;3,85;3,69;0,16;2,1;557;71,998;620,6;System In Line;System Ok;500;298,125;25-02-2023 01:07
+25-02-2023;01:07:06;Ballast;Running Ballast;297;0;3,86;3,7;0,16;2,1;557;71,996;621,1;System In Line;System Ok;500;298,125;25-02-2023 01:07
+25-02-2023;01:07:11;Ballast;Running Ballast;297;0;3,84;3,69;0,16;2,1;557;71,983;621,5;System In Line;System Ok;500;298,125;25-02-2023 01:07
+25-02-2023;01:07:17;Ballast;Running Ballast;297;0;3,84;3,69;0,16;2;557;71,994;622;System In Line;System Ok;500;298,125;25-02-2023 01:07
+25-02-2023;01:07:22;Ballast;Running Ballast;297;0;3,85;3,68;0,16;2;556;72,012;622,4;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:07:28;Ballast;Running Ballast;297;0;3,85;3,69;0,17;2;556;72,009;622,9;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:07:33;Ballast;Running Ballast;297;0;3,85;3,69;0,16;2;556;71,987;623,3;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:07:39;Ballast;Running Ballast;296;0;3,81;3,63;0,16;2;556;72,003;623,8;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:07:44;Ballast;Running Ballast;315;0;3,8;3,63;0,17;2;556;72,012;624,2;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:07:50;Ballast;Running Ballast;311;0;3,8;3,63;0,18;2;556;71,999;624,8;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:07:55;Ballast;Running Ballast;310;0;3,8;3,62;0,18;2;556;71,993;625,2;System In Line;System Ok;500;297,5;25-02-2023 01:07
+25-02-2023;01:08:01;Ballast;Running Ballast;302;0;3,84;3,67;0,17;2;556;71,989;625,7;System In Line;System Ok;500;297,5;25-02-2023 01:08
+25-02-2023;01:08:06;Ballast;Running Ballast;296;0;3,85;3,68;0,17;2;556;71,994;626,1;System In Line;System Ok;500;297,5;25-02-2023 01:08
+25-02-2023;01:08:12;Ballast;Running Ballast;297;0;3,84;3,66;0,17;2;556;71,995;626,6;System In Line;System Ok;500;297,5;25-02-2023 01:08
+25-02-2023;01:08:17;Ballast;Running Ballast;296;0;3,84;3,67;0,17;2;555;71,995;627;System In Line;System Ok;500;296,875;25-02-2023 01:08
+25-02-2023;01:08:23;Ballast;Running Ballast;295;0;3,85;3,66;0,18;2;555;72,003;627,5;System In Line;System Ok;500;296,875;25-02-2023 01:08
+25-02-2023;01:08:28;Ballast;Running Ballast;295;0;3,84;3,67;0,18;2;555;72,01;627,9;System In Line;System Ok;500;296,875;25-02-2023 01:08
+25-02-2023;01:08:34;Ballast;Running Ballast;295;0;3,84;3,66;0,18;2;555;72,01;628,4;System In Line;System Ok;500;296,875;25-02-2023 01:08
+25-02-2023;01:08:39;Ballast;Running Ballast;297;0;3,83;3,65;0,18;2;555;71,996;628,8;System In Line;System Ok;500;296,875;25-02-2023 01:08
+25-02-2023;01:08:45;Ballast;Running Ballast;297;0;3,85;3,67;0,18;2;554;72,005;629,3;System In Line;System Ok;500;296,25;25-02-2023 01:08
+25-02-2023;01:08:50;Ballast;Running Ballast;296;0;3,83;3,65;0,18;2;554;72,011;629,7;System In Line;System Ok;500;296,25;25-02-2023 01:08
+25-02-2023;01:08:56;Ballast;Running Ballast;296;0;3,84;3,65;0,18;2,1;554;71,995;630,2;System In Line;System Ok;500;296,25;25-02-2023 01:08
+25-02-2023;01:09:01;Ballast;Filter Flushing;315;20;3,74;3,68;0,15;2,1;552;71,996;630,6;System In Line;System Ok;500;295;25-02-2023 01:09
+25-02-2023;01:09:07;Ballast;Filter Flushing;320;48;3,79;3,75;0,08;2,1;553;72,008;631,2;System In Line;System Ok;500;295,625;25-02-2023 01:09
+25-02-2023;01:09:12;Ballast;Running Ballast;309;33;3,84;3,8;0,04;2,2;554;71,995;631,6;System In Line;System Ok;500;296,25;25-02-2023 01:09
+25-02-2023;01:09:18;Ballast;Running Ballast;283;5;3,9;3,86;0,04;2,4;554;71,999;632,1;System In Line;System Ok;500;296,25;25-02-2023 01:09
+25-02-2023;01:09:24;Ballast;Running Ballast;278;0;3,9;3,86;0,04;2,6;554;72,009;632,5;System In Line;System Ok;500;296,25;25-02-2023 01:09
+25-02-2023;01:09:29;Ballast;Running Ballast;279;0;3,89;3,86;0,04;2,8;553;71,996;633;System In Line;System Ok;500;296,25;25-02-2023 01:09
+25-02-2023;01:09:34;Ballast;Running Ballast;284;0;3,88;3,83;0,04;2,8;553;72,003;633,3;System In Line;System Ok;500;295,625;25-02-2023 01:09
+25-02-2023;01:09:40;Ballast;Running Ballast;288;0;3,88;3,83;0,04;3;553;72,003;633,8;System In Line;System Ok;500;295,625;25-02-2023 01:09
+25-02-2023;01:09:45;Ballast;Running Ballast;286;0;3,88;3,84;0,04;3;553;72,005;634,2;System In Line;System Ok;500;295,625;25-02-2023 01:09
+25-02-2023;01:09:51;Ballast;Running Ballast;286;0;3,88;3,85;0,04;3;553;71,999;634,7;System In Line;System Ok;500;295,625;25-02-2023 01:09
+25-02-2023;01:09:56;Ballast;Running Ballast;291;0;3,82;3,78;0,04;3,1;553;71,989;635,1;System In Line;System Ok;500;295,625;25-02-2023 01:09
+25-02-2023;01:10:02;Ballast;Running Ballast;308;0;3,81;3,77;0,04;3,1;553;72,006;635,6;System In Line;System Ok;500;295,625;25-02-2023 01:10
+25-02-2023;01:10:07;Ballast;Running Ballast;308;0;3,83;3,78;0,04;3,2;553;71,994;636;System In Line;System Ok;500;295,625;25-02-2023 01:10
+25-02-2023;01:10:13;Ballast;Running Ballast;307;0;3,84;3,81;0,05;3,2;553;72,017;636,5;System In Line;System Ok;500;295,625;25-02-2023 01:10
+25-02-2023;01:10:18;Ballast;Running Ballast;296;0;3,86;3,82;0,04;3,2;553;71,994;637;System In Line;System Ok;500;295,625;25-02-2023 01:10
+25-02-2023;01:10:24;Ballast;Running Ballast;294;0;3,86;3,82;0,04;3,2;553;71,99;637,5;System In Line;System Ok;500;295,625;25-02-2023 01:10
+25-02-2023;01:10:30;Ballast;Running Ballast;296;0;3,87;3,83;0,04;3,3;552;72,008;637,9;System In Line;System Ok;500;295,625;25-02-2023 01:10
+25-02-2023;01:10:35;Ballast;Running Ballast;293;0;3,87;3,82;0,04;3,3;552;71,993;638,4;System In Line;System Ok;500;295;25-02-2023 01:10
+25-02-2023;01:10:40;Ballast;Running Ballast;293;0;3,87;3,82;0,04;3,3;552;72,001;638,8;System In Line;System Ok;500;295;25-02-2023 01:10
+25-02-2023;01:10:46;Ballast;Running Ballast;294;0;3,85;3,82;0,04;3,4;552;72,005;639,3;System In Line;System Ok;500;295;25-02-2023 01:10
+25-02-2023;01:10:51;Ballast;Running Ballast;293;0;3,85;3,82;0,04;3,4;552;71,986;639,7;System In Line;System Ok;500;295;25-02-2023 01:10
+25-02-2023;01:10:57;Ballast;Running Ballast;295;0;3,86;3,81;0,04;3,4;552;72,007;640,2;System In Line;System Ok;500;295;25-02-2023 01:10
+25-02-2023;01:11:02;Ballast;Running Ballast;294;0;3,84;3,8;0,04;3,4;552;71,978;640,6;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:08;Ballast;Running Ballast;294;0;3,86;3,82;0,04;3,3;552;72,017;641,1;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:13;Ballast;Running Ballast;297;0;3,85;3,8;0,05;3,3;552;71,99;641,5;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:19;Ballast;Running Ballast;296;0;3,86;3,81;0,05;3,3;552;72,015;642;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:24;Ballast;Running Ballast;294;0;3,87;3,82;0,05;3,2;552;71,991;642,4;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:30;Ballast;Running Ballast;293;0;3,85;3,81;0,05;3,2;552;72,011;642,9;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:35;Ballast;Running Ballast;293;0;3,86;3,81;0,04;3,2;552;71,986;643,3;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:41;Ballast;Running Ballast;297;0;3,85;3,81;0,04;3,1;552;72,009;643,8;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:46;Ballast;Running Ballast;296;0;3,85;3,81;0,05;3;551;71,996;644,2;System In Line;System Ok;500;294,375;25-02-2023 01:11
+25-02-2023;01:11:52;Ballast;Running Ballast;295;0;3,87;3,81;0,05;2,9;551;72,002;644,7;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:11:58;Ballast;Running Ballast;295;0;3,86;3,81;0,05;2,9;552;72,003;645,1;System In Line;System Ok;500;295;25-02-2023 01:11
+25-02-2023;01:12:03;Ballast;Running Ballast;296;0;3,86;3,81;0,05;2,9;552;72,012;645,6;System In Line;System Ok;500;295;25-02-2023 01:12
+25-02-2023;01:12:09;Ballast;Running Ballast;295;0;3,86;3,82;0,04;2,8;552;71,998;646;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:14;Ballast;Running Ballast;296;0;3,85;3,82;0,04;2,8;551;72,006;646,5;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:20;Ballast;Running Ballast;295;0;3,85;3,79;0,04;2,7;551;72,001;646,9;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:25;Ballast;Running Ballast;295;0;3,85;3,8;0,05;2,7;551;72,007;647,4;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:31;Ballast;Running Ballast;294;0;3,84;3,81;0,04;2,7;551;72,007;647,8;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:36;Ballast;Running Ballast;297;0;3,84;3,8;0,04;2,7;551;72,001;648,3;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:42;Ballast;Running Ballast;293;0;3,85;3,8;0,04;2,6;551;72,004;648,7;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:47;Ballast;Running Ballast;295;0;3,85;3,8;0,05;2,6;551;72,007;649,2;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:53;Ballast;Running Ballast;292;0;3,86;3,8;0,05;2,6;551;72,009;649,6;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:12:58;Ballast;Running Ballast;295;0;3,86;3,82;0,05;2,6;551;72,004;650,1;System In Line;System Ok;500;294,375;25-02-2023 01:12
+25-02-2023;01:13:04;Ballast;Running Ballast;293;0;3,85;3,81;0,05;2,5;551;72,004;650,5;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:09;Ballast;Running Ballast;294;0;3,86;3,8;0,05;2,5;551;72,001;651;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:15;Ballast;Running Ballast;293;0;3,86;3,8;0,05;2,5;551;71,995;651,4;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:20;Ballast;Running Ballast;294;0;3,86;3,8;0,05;2,5;551;71,995;651,9;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:26;Ballast;Running Ballast;294;0;3,85;3,8;0,05;2,5;551;72,001;652,3;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:31;Ballast;Running Ballast;293;0;3,86;3,81;0,05;2,5;551;71,992;652,8;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:37;Ballast;Running Ballast;294;0;3,86;3,8;0,05;2,4;551;72,003;653,2;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:42;Ballast;Running Ballast;293;0;3,86;3,81;0,05;2,4;551;72;653,7;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:48;Ballast;Running Ballast;291;0;3,85;3,8;0,05;2,4;551;71,995;654,1;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:53;Ballast;Running Ballast;295;0;3,85;3,8;0,05;2,4;551;72,005;654,6;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:13:59;Ballast;Running Ballast;292;0;3,85;3,8;0,05;2,4;551;72,011;655;System In Line;System Ok;500;294,375;25-02-2023 01:13
+25-02-2023;01:14:04;Ballast;Running Ballast;293;0;3,86;3,81;0,06;2,4;551;72,014;655,5;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:10;Ballast;Running Ballast;295;0;3,85;3,8;0,05;2,4;551;72,009;655,9;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:15;Ballast;Running Ballast;295;0;3,86;3,8;0,05;2,4;551;71,996;656,4;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:21;Ballast;Running Ballast;294;0;3,85;3,79;0,06;2,3;551;71,99;656,8;System In Line;System Ok;500;295;25-02-2023 01:14
+25-02-2023;01:14:26;Ballast;Running Ballast;296;0;3,86;3,8;0,06;2,3;551;72,01;657,3;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:32;Ballast;Running Ballast;295;0;3,85;3,79;0,06;2,3;551;72;657,7;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:37;Ballast;Running Ballast;296;0;3,85;3,81;0,05;2,3;551;72,002;658,2;System In Line;System Ok;500;295;25-02-2023 01:14
+25-02-2023;01:14:43;Ballast;Running Ballast;296;0;3,85;3,8;0,05;2,3;551;72,006;658,6;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:48;Ballast;Running Ballast;296;0;3,86;3,8;0,06;2,3;551;72,008;659,1;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:54;Ballast;Running Ballast;295;0;3,85;3,79;0,05;2,3;551;72,002;659,5;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:14:59;Ballast;Running Ballast;292;0;3,85;3,81;0,05;2,3;551;72,005;660;System In Line;System Ok;500;294,375;25-02-2023 01:14
+25-02-2023;01:15:05;Ballast;Running Ballast;295;0;3,86;3,8;0,05;2,3;551;72,005;660,4;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:10;Ballast;Running Ballast;296;0;3,87;3,8;0,06;2,3;551;72,001;660,9;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:16;Ballast;Running Ballast;295;0;3,85;3,8;0,06;2,2;551;71,992;661,3;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:21;Ballast;Running Ballast;294;0;3,85;3,8;0,06;2,2;551;72;661,8;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:27;Ballast;Running Ballast;295;0;3,85;3,79;0,05;2,2;551;71,995;662,2;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:32;Ballast;Running Ballast;294;0;3,85;3,79;0,06;2,2;551;72,004;662,7;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:38;Ballast;Running Ballast;294;0;3,85;3,8;0,06;2,2;551;72;663,1;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:43;Ballast;Running Ballast;295;0;3,84;3,8;0,05;2,2;551;71,997;663,6;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:49;Ballast;Running Ballast;294;0;3,85;3,79;0,05;2,2;551;71,991;664;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:15:54;Ballast;Running Ballast;294;0;3,86;3,8;0,06;2,2;551;72,002;664,5;System In Line;System Ok;500;294,375;25-02-2023 01:15
+25-02-2023;01:16:00;Ballast;Running Ballast;294;0;3,85;3,79;0,07;2,2;551;72,007;664,9;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:05;Ballast;Running Ballast;294;0;3,84;3,79;0,06;2,2;551;71,992;665,4;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:11;Ballast;Running Ballast;294;0;3,85;3,78;0,06;2,2;551;71,994;665,8;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:16;Ballast;Running Ballast;294;0;3,86;3,79;0,06;2,2;551;71,996;666,3;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:22;Ballast;Running Ballast;294;0;3,86;3,79;0,06;2,2;551;72,008;666,7;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:27;Ballast;Running Ballast;294;0;3,86;3,79;0,06;2,2;551;72,01;667,2;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:33;Ballast;Running Ballast;293;0;3,85;3,79;0,07;2,1;551;71,999;667,6;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:38;Ballast;Running Ballast;294;0;3,86;3,8;0,07;2,1;551;71,983;668;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:44;Ballast;Running Ballast;295;0;3,85;3,79;0,06;2,1;551;72;668,5;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:49;Ballast;Running Ballast;294;0;3,86;3,8;0,06;2,1;551;72,002;668,9;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:16:55;Ballast;Running Ballast;292;0;3,86;3,79;0,06;2,1;551;72,004;669,4;System In Line;System Ok;500;294,375;25-02-2023 01:16
+25-02-2023;01:17:00;Ballast;Running Ballast;293;0;3,85;3,79;0,06;2,1;551;72,001;669,8;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:06;Ballast;Running Ballast;294;0;3,86;3,79;0,06;2,1;551;72,006;670,2;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:11;Ballast;Running Ballast;293;0;3,86;3,8;0,07;2,1;551;71,987;670,7;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:17;Ballast;Running Ballast;293;0;3,86;3,78;0,06;2,1;551;71,988;671,1;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:22;Ballast;Running Ballast;293;0;3,86;3,8;0,06;2,1;551;72,003;671,6;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:28;Ballast;Running Ballast;293;0;3,86;3,79;0,07;2,1;551;72,005;672;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:33;Ballast;Running Ballast;294;0;3,87;3,79;0,07;2,1;551;72,011;672,5;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:39;Ballast;Running Ballast;292;0;3,87;3,8;0,07;2,1;551;72,002;672,9;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:44;Ballast;Running Ballast;293;0;3,87;3,8;0,07;2,1;551;71,997;673,4;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:50;Ballast;Running Ballast;294;0;3,85;3,79;0,07;2,1;551;71,994;673,8;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:17:55;Ballast;Running Ballast;293;0;3,85;3,79;0,06;2,1;551;71,989;674,3;System In Line;System Ok;500;294,375;25-02-2023 01:17
+25-02-2023;01:18:01;Ballast;Running Ballast;293;0;3,85;3,79;0,06;2,1;551;71,99;674,7;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:06;Ballast;Running Ballast;293;0;3,86;3,79;0,06;2,1;551;72,003;675,2;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:12;Ballast;Running Ballast;294;0;3,85;3,78;0,07;2,1;551;72,004;675,6;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:17;Ballast;Running Ballast;293;0;3,87;3,79;0,07;2,1;551;71,991;676,1;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:23;Ballast;Running Ballast;293;0;3,87;3,8;0,07;2,1;551;71,995;676,5;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:28;Ballast;Running Ballast;292;0;3,86;3,79;0,07;2,1;551;71,992;677;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:34;Ballast;Running Ballast;292;0;3,86;3,79;0,07;2,1;551;72,003;677,4;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:39;Ballast;Running Ballast;292;0;3,86;3,79;0,07;2,1;551;72;677,9;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:45;Ballast;Running Ballast;292;0;3,86;3,79;0,07;2,1;551;72,005;678,3;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:50;Ballast;Running Ballast;293;0;3,87;3,79;0,07;2,1;551;71,989;678,8;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:18:56;Ballast;Running Ballast;291;0;3,86;3,78;0,07;2,1;551;71,987;679,2;System In Line;System Ok;500;294,375;25-02-2023 01:18
+25-02-2023;01:19:01;Ballast;Running Ballast;293;0;3,86;3,78;0,08;2;551;72,01;679,7;System In Line;System Ok;500;294,375;25-02-2023 01:19
+25-02-2023;01:19:07;Ballast;Running Ballast;292;0;3,85;3,78;0,08;2;550;72,003;680,1;System In Line;System Ok;500;294,375;25-02-2023 01:19
+25-02-2023;01:19:12;Ballast;Running Ballast;293;0;3,86;3,79;0,07;2;551;71,992;680,6;System In Line;System Ok;500;294,375;25-02-2023 01:19
+25-02-2023;01:19:18;Ballast;Running Ballast;292;0;3,86;3,78;0,07;2;551;72,002;681;System In Line;System Ok;500;294,375;25-02-2023 01:19
+25-02-2023;01:19:23;Ballast;Running Ballast;298;0;3,84;3,76;0,08;2;550;72,012;681,5;System In Line;System Ok;500;293,75;25-02-2023 01:19
+25-02-2023;01:19:29;Ballast;Running Ballast;298;0;3,85;3,77;0,07;2;551;71,999;681,9;System In Line;System Ok;500;294,375;25-02-2023 01:19
+25-02-2023;01:19:34;Ballast;Running Ballast;295;0;3,85;3,77;0,08;2;551;71,984;682,4;System In Line;System Ok;500;293,75;25-02-2023 01:19
+25-02-2023;01:19:40;Ballast;Running Ballast;294;0;3,87;3,79;0,08;2;550;71,986;682,8;System In Line;System Ok;500;293,75;25-02-2023 01:19
+25-02-2023;01:19:45;Ballast;Running Ballast;293;0;3,86;3,77;0,08;2;550;72,001;683,3;System In Line;System Ok;500;293,75;25-02-2023 01:19
+25-02-2023;01:19:51;Ballast;Running Ballast;292;0;3,85;3,77;0,08;2;551;72,011;683,7;System In Line;System Ok;500;294,375;25-02-2023 01:19
+25-02-2023;01:19:56;Ballast;Running Ballast;294;0;3,86;3,78;0,08;2;550;72,003;684,2;System In Line;System Ok;500;293,75;25-02-2023 01:19
+25-02-2023;01:20:02;Ballast;Running Ballast;292;0;3,86;3,76;0,08;2;551;71,992;684,6;System In Line;System Ok;500;294,375;25-02-2023 01:20
+25-02-2023;01:20:07;Ballast;Running Ballast;291;0;3,85;3,76;0,08;2;550;71,987;685,1;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:13;Ballast;Running Ballast;294;0;3,84;3,77;0,08;2;551;71,989;685,5;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:18;Ballast;Running Ballast;295;0;3,85;3,76;0,08;2,1;551;72,004;686;System In Line;System Ok;500;294,375;25-02-2023 01:20
+25-02-2023;01:20:24;Ballast;Running Ballast;295;0;3,84;3,76;0,08;2,1;550;72;686,4;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:29;Ballast;Running Ballast;296;0;3,85;3,78;0,08;2,2;550;71,992;686,9;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:35;Ballast;Running Ballast;295;0;3,86;3,77;0,08;2,3;550;71,998;687,3;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:40;Ballast;Running Ballast;295;0;3,85;3,76;0,08;2,4;550;72,005;687,8;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:46;Ballast;Running Ballast;293;0;3,85;3,77;0,09;2,6;550;72,007;688,2;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:51;Ballast;Running Ballast;294;0;3,86;3,78;0,08;2,7;550;71,991;688,7;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:20:57;Ballast;Running Ballast;295;0;3,86;3,77;0,08;2,7;550;71,989;689,1;System In Line;System Ok;500;293,75;25-02-2023 01:20
+25-02-2023;01:21:02;Ballast;Running Ballast;296;0;3,85;3,76;0,09;2,8;550;72,009;689,6;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:08;Ballast;Running Ballast;294;0;3,87;3,77;0,09;2,9;550;72;690;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:13;Ballast;Running Ballast;291;0;3,87;3,78;0,09;2,9;550;72,006;690,5;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:19;Ballast;Running Ballast;293;0;3,86;3,78;0,09;2,9;550;71,999;690,9;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:24;Ballast;Running Ballast;290;0;3,87;3,78;0,08;3;550;71,998;691,4;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:30;Ballast;Running Ballast;290;0;3,87;3,77;0,09;3;550;71,992;691,8;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:35;Ballast;Running Ballast;294;0;3,88;3,77;0,09;3;550;72,002;692,3;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:41;Ballast;Running Ballast;292;0;3,86;3,77;0,09;3;550;71,991;692,7;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:46;Ballast;Running Ballast;293;0;3,87;3,78;0,09;3,1;550;72,005;693,1;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:52;Ballast;Running Ballast;294;0;3,88;3,78;0,09;3,1;550;71,998;693,6;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:21:57;Ballast;Running Ballast;293;0;3,88;3,79;0,09;3,1;550;71,99;694;System In Line;System Ok;500;293,75;25-02-2023 01:21
+25-02-2023;01:22:03;Ballast;Running Ballast;294;0;3,88;3,79;0,09;3,1;550;72,004;694,4;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:08;Ballast;Running Ballast;292;0;3,88;3,78;0,1;3,1;550;72,006;694,9;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:14;Ballast;Running Ballast;292;0;3,88;3,78;0,09;3,2;550;72,003;695,3;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:19;Ballast;Running Ballast;292;0;3,87;3,77;0,1;3,2;550;71,996;695,8;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:25;Ballast;Running Ballast;290;0;3,88;3,77;0,1;3,1;550;72,004;696,2;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:30;Ballast;Running Ballast;294;0;3,89;3,79;0,11;3,1;550;71,999;696,7;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:36;Ballast;Running Ballast;294;0;3,88;3,78;0,1;3,1;550;71,989;697,1;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:41;Ballast;Running Ballast;293;0;3,87;3,78;0,1;3,1;550;72,009;697,6;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:47;Ballast;Running Ballast;293;0;3,88;3,78;0,1;3;550;72,007;698;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:52;Ballast;Running Ballast;294;0;3,87;3,77;0,1;3;550;71,991;698,5;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:22:58;Ballast;Running Ballast;291;0;3,88;3,78;0,11;3;550;71,999;698,9;System In Line;System Ok;500;293,75;25-02-2023 01:22
+25-02-2023;01:23:03;Ballast;Running Ballast;291;0;3,88;3,78;0,1;2,9;550;72,005;699,4;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:09;Ballast;Running Ballast;291;0;3,88;3,77;0,1;2,9;550;71,983;699,8;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:14;Ballast;Running Ballast;292;0;3,87;3,77;0,11;2,9;550;71,995;700,3;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:20;Ballast;Running Ballast;293;0;3,89;3,77;0,11;2,8;550;72,004;700,7;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:25;Ballast;Running Ballast;292;0;3,87;3,77;0,11;2,8;550;72,011;701,2;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:31;Ballast;Running Ballast;291;0;3,88;3,77;0,11;2,8;550;72,006;701,6;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:36;Ballast;Running Ballast;293;0;3,89;3,77;0,11;2,7;550;71,999;702,1;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:42;Ballast;Running Ballast;292;0;3,89;3,77;0,11;2,7;550;71,999;702,5;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:47;Ballast;Running Ballast;294;0;3,9;3,78;0,12;2,7;550;71,999;703;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:53;Ballast;Running Ballast;290;0;3,88;3,77;0,12;2,7;550;72,012;703,4;System In Line;System Ok;500;293,75;25-02-2023 01:23
+25-02-2023;01:23:58;Ballast;Running Ballast;292;0;3,85;3,73;0,11;2,6;551;72,002;703,9;System In Line;System Ok;500;294,375;25-02-2023 01:23
+25-02-2023;01:24:04;Ballast;Running Ballast;307;0;3,86;3,74;0,11;2,6;550;71,994;704,3;System In Line;System Ok;500;293,75;25-02-2023 01:24
+25-02-2023;01:24:09;Ballast;Running Ballast;302;0;3,86;3,74;0,11;2,6;550;71,987;704,8;System In Line;System Ok;500;293,75;25-02-2023 01:24
+25-02-2023;01:24:15;Ballast;Running Ballast;301;0;3,85;3,73;0,11;2,6;551;71,985;705,2;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:20;Ballast;Running Ballast;303;0;3,86;3,75;0,12;2,6;551;72,006;705,7;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:26;Ballast;Running Ballast;303;0;3,87;3,76;0,12;2,5;551;72,004;706,1;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:31;Ballast;Running Ballast;291;0;3,89;3,77;0,11;2,5;551;72,008;706,6;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:37;Ballast;Running Ballast;289;0;3,9;3,78;0,12;2,5;551;71,998;707;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:42;Ballast;Running Ballast;290;0;3,89;3,76;0,12;2,5;551;71,991;707,5;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:48;Ballast;Running Ballast;292;0;3,89;3,77;0,12;2,5;551;71,994;707,9;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:53;Ballast;Running Ballast;292;0;3,91;3,76;0,12;2,5;551;72,001;708,4;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:24:59;Ballast;Running Ballast;291;0;3,89;3,77;0,13;2,4;551;72,001;708,8;System In Line;System Ok;500;294,375;25-02-2023 01:24
+25-02-2023;01:25:04;Ballast;Running Ballast;293;0;3,88;3,76;0,12;2,4;551;72,007;709,3;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:10;Ballast;Running Ballast;292;0;3,89;3,77;0,12;2,4;551;72,001;709,7;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:15;Ballast;Running Ballast;291;0;3,88;3,75;0,12;2,4;551;71,988;710,2;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:21;Ballast;Running Ballast;291;0;3,88;3,76;0,12;2,4;551;71,999;710,6;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:26;Ballast;Running Ballast;290;0;3,89;3,77;0,12;2,4;551;72,006;711,1;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:32;Ballast;Running Ballast;290;0;3,87;3,75;0,13;2,4;551;72,017;711,5;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:37;Ballast;Running Ballast;291;0;3,88;3,75;0,13;2,4;551;72;712;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:43;Ballast;Running Ballast;291;0;3,89;3,76;0,13;2,4;551;71,998;712,4;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:48;Ballast;Running Ballast;291;0;3,89;3,75;0,13;2,3;551;72,013;712,8;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:54;Ballast;Running Ballast;293;0;3,87;3,73;0,14;2,3;551;71,986;713,3;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:25:59;Ballast;Running Ballast;298;0;3,85;3,73;0,14;2,3;551;72,003;713,7;System In Line;System Ok;500;294,375;25-02-2023 01:25
+25-02-2023;01:26:05;Ballast;Running Ballast;298;0;3,88;3,75;0,13;2,3;551;72,014;714,2;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:10;Ballast;Running Ballast;293;0;3,9;3,75;0,13;2,3;551;72,015;714,7;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:16;Ballast;Running Ballast;291;0;3,88;3,75;0,13;2,3;551;71,997;715,1;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:21;Ballast;Running Ballast;292;0;3,88;3,75;0,14;2,3;551;72,001;715,5;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:27;Ballast;Running Ballast;294;0;3,88;3,74;0,14;2,2;551;72,017;716;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:32;Ballast;Running Ballast;293;0;3,89;3,74;0,14;2,2;551;71,99;716,4;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:38;Ballast;Running Ballast;293;0;3,87;3,73;0,14;2,2;551;71,988;716,8;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:43;Ballast;Running Ballast;294;0;3,88;3,73;0,14;2,2;551;72,001;717,3;System In Line;System Ok;500;294,375;25-02-2023 01:26
+25-02-2023;01:26:49;Ballast;Running Ballast;293;0;3,87;3,74;0,14;2,2;552;72,009;717,7;System In Line;System Ok;500;295;25-02-2023 01:26
+25-02-2023;01:26:54;Ballast;Running Ballast;293;0;3,87;3,73;0,14;2,2;552;71,99;718,2;System In Line;System Ok;500;295;25-02-2023 01:26
+25-02-2023;01:27:00;Ballast;Running Ballast;294;0;3,87;3,73;0,14;2,2;552;72,005;718,6;System In Line;System Ok;500;295;25-02-2023 01:27
+25-02-2023;01:27:05;Ballast;Running Ballast;294;0;3,89;3,73;0,15;2,2;552;71,989;719,1;System In Line;System Ok;500;295;25-02-2023 01:27
+25-02-2023;01:27:11;Ballast;Running Ballast;293;0;3,88;3,72;0,15;2,2;551;72;719,5;System In Line;System Ok;500;294,375;25-02-2023 01:27
+25-02-2023;01:27:16;Ballast;Running Ballast;293;0;3,89;3,73;0,16;2,2;551;71,983;720;System In Line;System Ok;500;294,375;25-02-2023 01:27
+25-02-2023;01:27:22;Ballast;Running Ballast;293;0;3,88;3,72;0,16;2,2;552;72,008;720,4;System In Line;System Ok;500;294,375;25-02-2023 01:27
+25-02-2023;01:27:27;Ballast;Running Ballast;294;0;3,88;3,73;0,16;2,2;552;71,999;720,9;System In Line;System Ok;500;295;25-02-2023 01:27
+25-02-2023;01:27:33;Ballast;Running Ballast;291;0;3,88;3,73;0,16;2,2;551;72;721,3;System In Line;System Ok;500;295;25-02-2023 01:27
+25-02-2023;01:27:38;Ballast;Running Ballast;292;0;3,87;3,73;0,15;2,2;551;71,995;721,8;System In Line;System Ok;500;294,375;25-02-2023 01:27
+25-02-2023;01:27:44;Ballast;Running Ballast;293;0;3,88;3,73;0,15;2,2;552;72;722,2;System In Line;System Ok;500;294,375;25-02-2023 01:27
+25-02-2023;01:27:49;Ballast;Running Ballast;293;0;3,88;3,71;0,15;2,2;551;71,985;722,7;System In Line;System Ok;500;294,375;25-02-2023 01:27
+25-02-2023;01:28:12;Ballast;Stop Ballast Pump;1;0;4,42;4,45;0;2,3;701;71,988;722,9;System In Line;System Ok;500;388,125;25-02-2023 01:28
+25-02-2023;01:28:17;Ballast;Stop Ballast Pump;0;0;4,38;4,4;0;2,8;720;72;722,9;System In Line;System Ok;500;400;25-02-2023 01:28
+25-02-2023;01:28:22;Ballast;Stop Ballast Pump;0;0;4,39;4,37;0;3,3;791;71,999;722,9;System In Line;System Ok;500;439,375;25-02-2023 01:28
+25-02-2023;01:28:28;Ballast;Stop Ballast Pump;0;0;4,38;4,37;0,01;3,8;839;71,995;722,9;System In Line;System Ok;500;474,375;25-02-2023 01:28
+25-02-2023;01:28:34;Ballast;Stop Ballast Pump;0;0;4,37;4,36;0,01;4,3;896;72,001;722,9;System In Line;System Ok;500;500;25-02-2023 01:28
+25-02-2023;01:28:39;Ballast;Stop Ballast Pump;0;0;4,38;4,36;0,01;4,6;940;72,008;722,9;System In Line;System Ok;500;500;25-02-2023 01:28
+25-02-2023;01:28:45;Ballast;Stop Ballast Pump;0;0;4,38;4,38;0,01;5,1;971;71,984;722,9;System In Line;System Ok;500;500;25-02-2023 01:28
+25-02-2023;01:28:50;Ballast;Stop Ballast Pump;0;0;4,39;4,39;0,01;5,5;1008;72,017;722,9;System In Line;System Ok;500;500;25-02-2023 01:28
+25-02-2023;01:28:56;Ballast;Stop Ballast Pump;0;0;4,41;4,4;0,01;6,1;1027;71,992;722,9;System In Line;System Ok;500;500;25-02-2023 01:28
+25-02-2023;01:29:01;Ballast;Shutting Down;0;0;4,34;4,32;0,01;7;794;0;722,9;System In Line;System Ok;500;500;25-02-2023 01:29
+25-02-2023;01:29:07;Ballast;Open Recirculation Valves;0;0;3,23;3,83;0,01;7,9;35;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:12;Ballast;Recirculation;0;13;0,35;0,33;-0,03;8,9;2;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:18;Ballast;Recirculation;0;25;0,2;0,19;-0,03;9,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:23;Ballast;Recirculation;0;25;0,18;0,16;0,01;11;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:29;Ballast;Recirculation;0;25;0,17;0,16;0,01;11,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:34;Ballast;Recirculation;0;25;0,17;0,16;0,01;11;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:40;Ballast;Recirculation;0;25;0,17;0,15;0,01;10,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:45;Ballast;Recirculation;0;25;0,17;0,15;0,02;9,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:51;Ballast;Recirculation;0;25;0,17;0,15;0,02;8,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:29:56;Ballast;Recirculation;0;25;0,17;0,15;0,02;8,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:29
+25-02-2023;01:30:02;Ballast;Recirculation;0;25;0,17;0,15;0,02;8,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:07;Ballast;Recirculation;0;25;0,16;0,15;0,01;8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:13;Ballast;Recirculation;0;25;0,16;0,15;0,01;7,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:18;Ballast;Recirculation;0;25;0,16;0,15;0,01;7,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:24;Ballast;Recirculation;0;25;0,16;0,15;0,01;7,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:29;Ballast;Recirculation;0;25;0,16;0,15;0,01;7,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:35;Ballast;Recirculation;0;25;0,16;0,15;0,01;7,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:40;Ballast;Recirculation;0;25;0,17;0,15;0,01;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:46;Ballast;Recirculation;0;25;0,17;0,16;0,01;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:51;Ballast;Recirculation;0;25;0,17;0,16;0,01;7,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:30:57;Ballast;Recirculation;0;25;0,17;0,16;0,01;7,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:30
+25-02-2023;01:31:02;Ballast;Recirculation;0;25;0,17;0,16;0,01;7,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:31
+25-02-2023;01:31:08;Ballast;Recirculation;0;25;0,17;0,16;0,01;7,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:31
+25-02-2023;01:36:09;Ballast;System Ready;0;0;0,16;0,15;0,01;8,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:36
+25-02-2023;01:41:09;Ballast;System Ready;0;0;0,16;0,15;0,01;8,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:41
+25-02-2023;01:46:10;Ballast;System Ready;0;0;0,16;0,14;0,02;7,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:46
+25-02-2023;01:51:10;Ballast;System Ready;0;0;0,16;0,14;0,02;7,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:51
+25-02-2023;01:56:11;Ballast;System Ready;0;0;0,16;0,14;0,02;7,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 01:56
+25-02-2023;02:01:12;Ballast;System Ready;0;0;0,16;0,14;0,02;7,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:01
+25-02-2023;02:06:12;Ballast;System Ready;0;0;0,16;0,14;0,02;7,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:06
+25-02-2023;02:11:12;Ballast;System Ready;0;0;0,15;0,14;0,01;7,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:11
+25-02-2023;02:16:13;Ballast;System Ready;0;0;0,15;0,14;0,01;7,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:16
+25-02-2023;02:21:13;Ballast;System Ready;0;0;0,15;0,14;0,01;7,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:21
+25-02-2023;02:26:14;Ballast;System Ready;0;0;0,15;0,14;0,01;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:26
+25-02-2023;02:31:14;System Idle;system Idle;0;0;0,15;0,14;0,01;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:31
+25-02-2023;02:36:15;System Idle;system Idle;0;0;0,15;0,14;0,01;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:36
+25-02-2023;02:41:15;System Idle;system Idle;0;0;0,15;0,14;0,01;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:41
+25-02-2023;02:46:16;System Idle;system Idle;0;0;0,15;0,14;0,01;7,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:46
+25-02-2023;02:51:16;System Idle;system Idle;0;0;0,16;0,14;0,02;7,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:51
+25-02-2023;02:56:17;System Idle;system Idle;0;0;0,16;0,14;0,02;7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 02:56
+25-02-2023;03:01:18;System Idle;system Idle;0;0;0,16;0,14;0,02;7,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:01
+25-02-2023;03:06:18;System Idle;system Idle;0;0;0,16;0,14;0,02;7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:06
+25-02-2023;03:11:19;System Idle;system Idle;0;0;0,16;0,14;0,02;7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:11
+25-02-2023;03:16:19;System Idle;system Idle;0;0;0,16;0,14;0,02;7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:16
+25-02-2023;03:21:19;System Idle;system Idle;0;0;0,16;0,14;0,02;7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:21
+25-02-2023;03:26:20;System Idle;system Idle;0;0;0,16;0,14;0,02;7,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:26
+25-02-2023;03:31:21;System Idle;system Idle;0;0;0,16;0,14;0,02;7,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:31
+25-02-2023;03:36:21;System Idle;system Idle;0;0;0,16;0,14;0,02;7,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:36
+25-02-2023;03:41:22;System Idle;system Idle;0;0;0,16;0,14;0,02;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:41
+25-02-2023;03:46:22;System Idle;system Idle;0;0;0,16;0,14;0,02;7,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:46
+25-02-2023;03:51:23;System Idle;system Idle;0;0;0,16;0,15;0,01;7,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:51
+25-02-2023;03:56:23;System Idle;system Idle;0;0;0,16;0,15;0,01;7,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 03:56
+25-02-2023;04:01:24;System Idle;system Idle;0;0;0,16;0,15;0,01;7,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:01
+25-02-2023;04:06:23;System Idle;system Idle;0;0;0,16;0,15;0,01;7,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:06
+25-02-2023;04:11:24;System Idle;system Idle;0;0;0,16;0,15;0,01;7,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:11
+25-02-2023;04:16:24;System Idle;system Idle;0;0;0,16;0,15;0,01;7,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:16
+25-02-2023;04:21:25;System Idle;system Idle;0;0;0,16;0,15;0,01;7,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:21
+25-02-2023;04:26:25;System Idle;system Idle;0;0;0,16;0,15;0,01;8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:26
+25-02-2023;04:31:26;System Idle;system Idle;0;0;0,16;0,15;0,01;8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:31
+25-02-2023;04:36:26;System Idle;system Idle;0;0;0,16;0,15;0,01;8,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:36
+25-02-2023;04:41:27;System Idle;system Idle;0;0;0,16;0,15;0,01;8,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:41
+25-02-2023;04:46:27;System Idle;system Idle;0;0;0,16;0,15;0,01;8,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:46
+25-02-2023;04:51:28;System Idle;system Idle;0;0;0,16;0,15;0,01;8,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:51
+25-02-2023;04:56:28;System Idle;system Idle;0;0;0,17;0,15;0,02;8,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 04:56
+25-02-2023;05:01:29;System Idle;system Idle;0;0;0,17;0,15;0,02;8,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:01
+25-02-2023;05:06:29;System Idle;system Idle;0;0;0,17;0,15;0,02;8,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:06
+25-02-2023;05:11:30;System Idle;system Idle;0;0;0,17;0,15;0,02;8,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:11
+25-02-2023;05:16:30;System Idle;system Idle;0;0;0,17;0,16;0,01;8,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:16
+25-02-2023;05:21:31;System Idle;system Idle;0;0;0,17;0,16;0,01;8,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:21
+25-02-2023;05:26:31;System Idle;system Idle;0;0;0,17;0,16;0,01;8,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:26
+25-02-2023;05:31:32;System Idle;system Idle;0;0;0,17;0,16;0,01;8,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:31
+25-02-2023;05:36:32;System Idle;system Idle;0;0;0,17;0,16;0,01;8,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:36
+25-02-2023;05:41:33;System Idle;system Idle;0;0;0,17;0,16;0,01;8,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:41
+25-02-2023;05:46:33;System Idle;system Idle;0;0;0,17;0,16;0,01;9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:46
+25-02-2023;05:51:34;System Idle;system Idle;0;0;0,17;0,16;0,01;9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:51
+25-02-2023;05:56:34;System Idle;system Idle;0;0;0,17;0,16;0,01;9,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 05:56
+25-02-2023;06:01:36;System Idle;system Idle;0;0;0,17;0,16;0,01;9,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:01
+25-02-2023;06:06:36;System Idle;system Idle;0;0;0,17;0,16;0,01;9,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:06
+25-02-2023;06:11:36;System Idle;system Idle;0;0;0,17;0,16;0,01;9,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:11
+25-02-2023;06:16:37;System Idle;system Idle;0;0;0,17;0,16;0,01;9,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:16
+25-02-2023;06:21:37;System Idle;system Idle;0;0;0,17;0,16;0,01;9,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:21
+25-02-2023;06:26:38;System Idle;system Idle;0;0;0,18;0,16;0,02;9,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:26
+25-02-2023;06:31:38;System Idle;system Idle;0;0;0,18;0,16;0,02;9,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:31
+25-02-2023;06:36:39;System Idle;system Idle;0;0;0,18;0,16;0,02;9,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:36
+25-02-2023;06:41:39;System Idle;system Idle;0;0;0,18;0,16;0,02;9,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:41
+25-02-2023;06:46:40;System Idle;system Idle;0;0;0,18;0,16;0,02;9,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:46
+25-02-2023;06:51:40;System Idle;system Idle;0;0;0,18;0,17;0,01;9,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:51
+25-02-2023;06:56:41;System Idle;system Idle;0;0;0,18;0,17;0,01;9,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 06:56
+25-02-2023;07:01:42;System Idle;system Idle;0;0;0,18;0,17;0,01;9,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:01
+25-02-2023;07:06:42;System Idle;system Idle;0;0;0,18;0,17;0,01;9,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:06
+25-02-2023;07:11:42;System Idle;system Idle;0;0;0,18;0,17;0,01;9,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:11
+25-02-2023;07:16:43;System Idle;system Idle;0;0;0,18;0,17;0,01;9,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:16
+25-02-2023;07:21:43;System Idle;system Idle;0;0;0,18;0,17;0,01;9,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:21
+25-02-2023;07:26:44;System Idle;system Idle;0;0;0,18;0,17;0,01;10;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:26
+25-02-2023;07:31:44;System Idle;system Idle;0;0;0,19;0,17;0,02;10;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:31
+25-02-2023;07:36:45;System Idle;system Idle;0;0;0,19;0,17;0,02;10,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:36
+25-02-2023;07:41:45;System Idle;system Idle;0;0;0,19;0,17;0,02;10,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:41
+25-02-2023;07:46:46;System Idle;system Idle;0;0;0,19;0,17;0,02;10,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:46
+25-02-2023;07:51:47;System Idle;system Idle;0;0;0,19;0,17;0,02;10,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:51
+25-02-2023;07:56:47;System Idle;system Idle;0;0;0,19;0,17;0,02;10,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 07:56
+25-02-2023;08:01:48;System Idle;system Idle;0;0;0,19;0,17;0,02;10,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:01
+25-02-2023;08:06:48;System Idle;system Idle;0;0;0,19;0,18;0,01;10,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:06
+25-02-2023;08:11:49;System Idle;system Idle;0;0;0,19;0,18;0,01;10,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:11
+25-02-2023;08:16:48;System Idle;system Idle;0;0;0,19;0,18;0,01;10,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:16
+25-02-2023;08:21:49;System Idle;system Idle;0;0;0,19;0,18;0,01;10,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:21
+25-02-2023;08:26:49;System Idle;system Idle;0;0;0,19;0,18;0,01;10,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:26
+25-02-2023;08:31:50;System Idle;system Idle;0;0;0,19;0,18;0,01;10,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:31
+25-02-2023;08:36:50;System Idle;system Idle;0;0;0,19;0,18;0,01;10,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:36
+25-02-2023;08:41:51;System Idle;system Idle;0;0;0,19;0,18;0,01;10,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:41
+25-02-2023;08:46:51;System Idle;system Idle;0;0;0,2;0,18;0,02;10,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:46
+25-02-2023;08:51:52;System Idle;system Idle;0;0;0,2;0,18;0,02;10,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:51
+25-02-2023;08:56:52;System Idle;system Idle;0;0;0,2;0,18;0,02;10,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 08:56
+25-02-2023;09:01:54;System Idle;system Idle;0;0;0,2;0,18;0,02;10,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:01
+25-02-2023;09:06:53;System Idle;system Idle;0;0;0,2;0,19;0,01;10,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:06
+25-02-2023;09:11:54;System Idle;system Idle;0;0;0,2;0,19;0,01;10,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:11
+25-02-2023;09:16:54;System Idle;system Idle;0;0;0,2;0,19;0,01;10,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:16
+25-02-2023;09:21:55;System Idle;system Idle;0;0;0,2;0,19;0,01;10,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:21
+25-02-2023;09:26:55;System Idle;system Idle;0;0;0,2;0,19;0,01;11;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:26
+25-02-2023;09:31:56;System Idle;system Idle;0;0;0,2;0,19;0,01;11;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:31
+25-02-2023;09:36:56;System Idle;system Idle;0;0;0,2;0,19;0,01;11;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:36
+25-02-2023;09:41:57;System Idle;system Idle;0;0;0,2;0,19;0,01;11,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:41
+25-02-2023;09:46:58;System Idle;system Idle;0;0;0,2;0,19;0,01;11,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:46
+25-02-2023;09:51:58;System Idle;system Idle;0;0;0,21;0,19;0,01;11,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:51
+25-02-2023;09:56:59;System Idle;system Idle;0;0;0,21;0,19;0,02;11,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 09:56
+25-02-2023;10:02:00;System Idle;system Idle;0;0;0,21;0,2;0,01;11,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:02
+25-02-2023;10:07:00;System Idle;system Idle;0;0;0,21;0,2;0,01;11,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:07
+25-02-2023;10:12:00;System Idle;system Idle;0;0;0,21;0,2;0,01;11,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:12
+25-02-2023;10:17:01;System Idle;system Idle;0;0;0,21;0,2;0,01;11,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:17
+25-02-2023;10:22:01;System Idle;system Idle;0;0;0,21;0,2;0,01;11,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:22
+25-02-2023;10:27:02;System Idle;system Idle;0;0;0,21;0,2;0,01;11,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:27
+25-02-2023;10:32:02;System Idle;system Idle;0;0;0,21;0,2;0,01;11,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:32
+25-02-2023;10:37:03;System Idle;system Idle;0;0;0,21;0,2;0,01;11,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:37
+25-02-2023;10:42:03;System Idle;system Idle;0;0;0,21;0,2;0,01;11,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:42
+25-02-2023;10:47:04;System Idle;system Idle;0;0;0,22;0,2;0,02;11,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:47
+25-02-2023;10:52:04;System Idle;system Idle;0;0;0,22;0,2;0,02;11,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:52
+25-02-2023;10:57:05;System Idle;system Idle;0;0;0,22;0,21;0,02;11,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 10:57
+25-02-2023;11:02:06;System Idle;system Idle;0;0;0,22;0,21;0,01;11,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:02
+25-02-2023;11:07:06;System Idle;system Idle;0;0;0,22;0,21;0,01;11,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:07
+25-02-2023;11:12:07;System Idle;system Idle;0;0;0,22;0,21;0,01;11,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:12
+25-02-2023;11:17:07;System Idle;system Idle;0;0;0,22;0,21;0,01;11,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:17
+25-02-2023;11:22:07;System Idle;system Idle;0;0;0,22;0,21;0,01;11,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:22
+25-02-2023;11:27:08;System Idle;system Idle;0;0;0,22;0,21;0,01;11,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:27
+25-02-2023;11:32:09;System Idle;system Idle;0;0;0,22;0,21;0,01;11,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:32
+25-02-2023;11:37:09;System Idle;system Idle;0;0;0,22;0,21;0,01;11,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:37
+25-02-2023;11:42:10;System Idle;system Idle;0;0;0,23;0,21;0,02;11,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:42
+25-02-2023;11:47:10;System Idle;system Idle;0;0;0,23;0,21;0,02;11,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:47
+25-02-2023;11:52:11;System Idle;system Idle;0;0;0,23;0,21;0,02;11,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:52
+25-02-2023;11:57:10;System Idle;system Idle;0;0;0,23;0,21;0,02;11,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 11:57
+25-02-2023;12:02:11;System Idle;system Idle;0;0;0,23;0,22;0,01;11,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:02
+25-02-2023;12:07:11;System Idle;system Idle;0;0;0,23;0,22;0,01;12;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:07
+25-02-2023;12:12:12;System Idle;system Idle;0;0;0,23;0,22;0,01;12;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:12
+25-02-2023;12:17:12;System Idle;system Idle;0;0;0,23;0,22;0,01;12;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:17
+25-02-2023;12:22:13;System Idle;system Idle;0;0;0,23;0,22;0,01;12;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:22
+25-02-2023;12:27:13;System Idle;system Idle;0;0;0,23;0,22;0,01;12,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:27
+25-02-2023;12:32:14;System Idle;system Idle;0;0;0,23;0,22;0,01;12,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:32
+25-02-2023;12:37:14;System Idle;system Idle;0;0;0,24;0,22;0,02;12,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:37
+25-02-2023;12:42:15;System Idle;system Idle;0;0;0,24;0,22;0,02;12,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:42
+25-02-2023;12:47:15;System Idle;system Idle;0;0;0,24;0,22;0,02;12,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:47
+25-02-2023;12:52:16;System Idle;system Idle;0;0;0,24;0,22;0,02;12,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:52
+25-02-2023;12:57:16;System Idle;system Idle;0;0;0,24;0,23;0,01;12,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 12:57
+25-02-2023;13:02:18;System Idle;system Idle;0;0;0,24;0,23;0,01;12,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:02
+25-02-2023;13:07:17;System Idle;system Idle;0;0;0,24;0,23;0,01;12,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:07
+25-02-2023;13:12:18;System Idle;system Idle;0;0;0,24;0,23;0,01;12,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:12
+25-02-2023;13:17:18;System Idle;system Idle;0;0;0,24;0,23;0,01;12,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:17
+25-02-2023;13:22:19;System Idle;system Idle;0;0;0,24;0,23;0,01;12,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:22
+25-02-2023;13:27:19;System Idle;system Idle;0;0;0,24;0,23;0,01;12,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:27
+25-02-2023;13:32:20;System Idle;system Idle;0;0;0,25;0,23;0,02;12,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:32
+25-02-2023;13:37:20;System Idle;system Idle;0;0;0,25;0,23;0,02;12,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:37
+25-02-2023;13:42:21;System Idle;system Idle;0;0;0,25;0,23;0,02;12,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:42
+25-02-2023;13:47:21;System Idle;system Idle;0;0;0,25;0,23;0,02;12,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:47
+25-02-2023;13:52:22;System Idle;system Idle;0;0;0,25;0,23;0,01;12,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:52
+25-02-2023;13:57:22;System Idle;system Idle;0;0;0,25;0,24;0,01;12,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 13:57
+25-02-2023;14:02:24;System Idle;system Idle;0;0;0,25;0,24;0,01;12,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:02
+25-02-2023;14:07:23;System Idle;system Idle;0;0;0,25;0,24;0,01;12,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:07
+25-02-2023;14:12:24;System Idle;system Idle;0;0;0,25;0,24;0,01;12,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:12
+25-02-2023;14:17:24;System Idle;system Idle;0;0;0,26;0,24;0,02;12,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:17
+25-02-2023;14:22:25;System Idle;system Idle;0;0;0,26;0,24;0,02;12,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:22
+25-02-2023;14:27:26;System Idle;system Idle;0;0;0,26;0,24;0,02;12,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:27
+25-02-2023;14:32:26;System Idle;system Idle;0;0;0,26;0,24;0,02;12,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:32
+25-02-2023;14:37:27;System Idle;system Idle;0;0;0,26;0,25;0,01;12,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:37
+25-02-2023;14:42:27;System Idle;system Idle;0;0;0,26;0,25;0,01;12,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:42
+25-02-2023;14:47:28;System Idle;system Idle;0;0;0,26;0,25;0,01;12,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:47
+25-02-2023;14:52:28;System Idle;system Idle;0;0;0,26;0,25;0,01;12,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:52
+25-02-2023;14:57:29;System Idle;system Idle;0;0;0,26;0,25;0,01;12,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 14:57
+25-02-2023;15:02:30;System Idle;system Idle;0;0;0,27;0,25;0,02;12,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:02
+25-02-2023;15:07:30;System Idle;system Idle;0;0;0,27;0,25;0,02;12,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:07
+25-02-2023;15:12:30;System Idle;system Idle;0;0;0,27;0,25;0,02;12,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:12
+25-02-2023;15:17:30;System Idle;system Idle;0;0;0,27;0,25;0,02;12,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:17
+25-02-2023;15:22:31;System Idle;system Idle;0;0;0,27;0,26;0,01;13;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:22
+25-02-2023;15:27:32;System Idle;system Idle;0;0;0,27;0,26;0,01;13;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:27
+25-02-2023;15:32:32;System Idle;system Idle;0;0;0,27;0,26;0,01;13;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:32
+25-02-2023;15:37:33;System Idle;system Idle;0;0;0,27;0,26;0,01;13;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:37
+25-02-2023;15:42:33;System Idle;system Idle;0;0;0,27;0,26;0,01;13;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:42
+25-02-2023;15:47:34;System Idle;system Idle;0;0;0,27;0,26;0,01;13,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:47
+25-02-2023;15:52:34;System Idle;system Idle;0;0;0,28;0,26;0,02;13,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:52
+25-02-2023;15:57:35;System Idle;system Idle;0;0;0,28;0,26;0,02;13,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 15:57
+25-02-2023;16:02:36;System Idle;system Idle;0;0;0,28;0,26;0,02;13,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:02
+25-02-2023;16:07:36;System Idle;system Idle;0;0;0,28;0,27;0,01;13,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:07
+25-02-2023;16:12:36;System Idle;system Idle;0;0;0,28;0,27;0,01;13,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:12
+25-02-2023;16:17:37;System Idle;system Idle;0;0;0,28;0,27;0,01;13,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:17
+25-02-2023;16:22:37;System Idle;system Idle;0;0;0,28;0,27;0,01;13,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:22
+25-02-2023;16:27:38;System Idle;system Idle;0;0;0,28;0,27;0,01;13,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:27
+25-02-2023;16:32:38;System Idle;system Idle;0;0;0,28;0,27;0,01;13,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:32
+25-02-2023;16:37:39;System Idle;system Idle;0;0;0,28;0,27;0,01;13,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:37
+25-02-2023;16:42:40;System Idle;system Idle;0;0;0,28;0,27;0,01;13,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:42
+25-02-2023;16:47:40;System Idle;system Idle;0;0;0,29;0,27;0,02;13,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:47
+25-02-2023;16:52:40;System Idle;system Idle;0;0;0,29;0,27;0,02;13,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:52
+25-02-2023;16:57:41;System Idle;system Idle;0;0;0,29;0,28;0,01;13,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 16:57
+25-02-2023;17:02:42;System Idle;system Idle;0;0;0,29;0,28;0,01;13,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:02
+25-02-2023;17:07:42;System Idle;system Idle;0;0;0,29;0,28;0,01;13,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:07
+25-02-2023;17:12:43;System Idle;system Idle;0;0;0,29;0,28;0,01;13,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:12
+25-02-2023;17:17:43;System Idle;system Idle;0;0;0,29;0,28;0,01;13,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:17
+25-02-2023;17:22:43;System Idle;system Idle;0;0;0,29;0,28;0,01;13,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:22
+25-02-2023;17:27:44;System Idle;system Idle;0;0;0,29;0,28;0,01;13,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:27
+25-02-2023;17:32:45;System Idle;system Idle;0;0;0,3;0,28;0,02;13,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:32
+25-02-2023;17:37:45;System Idle;system Idle;0;0;0,3;0,28;0,02;13,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:37
+25-02-2023;17:42:46;System Idle;system Idle;0;0;0,3;0,28;0,02;13,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:42
+25-02-2023;17:47:46;System Idle;system Idle;0;0;0,3;0,29;0,01;13,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:47
+25-02-2023;17:52:47;System Idle;system Idle;0;0;0,3;0,29;0,01;13,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:52
+25-02-2023;17:57:47;System Idle;system Idle;0;0;0,3;0,29;0,01;13,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 17:57
+25-02-2023;18:02:48;System Idle;system Idle;0;0;0,3;0,29;0,01;13,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:02
+25-02-2023;18:07:47;System Idle;system Idle;0;0;0,3;0,29;0,01;13,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:07
+25-02-2023;18:12:48;System Idle;system Idle;0;0;0,3;0,29;0,01;13,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:12
+25-02-2023;18:17:48;System Idle;system Idle;0;0;0,3;0,29;0,01;13,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:17
+25-02-2023;18:22:49;System Idle;system Idle;0;0;0,3;0,29;0,01;13,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:22
+25-02-2023;18:27:49;System Idle;system Idle;0;0;0,3;0,29;0,01;13,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:27
+25-02-2023;18:32:50;System Idle;system Idle;0;0;0,31;0,29;0,02;13,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:32
+25-02-2023;18:37:50;System Idle;system Idle;0;0;0,31;0,3;0,01;13,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:37
+25-02-2023;18:42:51;System Idle;system Idle;0;0;0,31;0,3;0,01;13,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:42
+25-02-2023;18:47:51;System Idle;system Idle;0;0;0,31;0,3;0,01;13,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:47
+25-02-2023;18:52:52;System Idle;system Idle;0;0;0,31;0,3;0,01;13,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:52
+25-02-2023;18:57:52;System Idle;system Idle;0;0;0,31;0,3;0,01;13,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 18:57
+25-02-2023;19:02:54;System Idle;system Idle;0;0;0,31;0,3;0,01;13,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:02
+25-02-2023;19:07:53;System Idle;system Idle;0;0;0,31;0,3;0,01;13,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:07
+25-02-2023;19:12:54;System Idle;system Idle;0;0;0,31;0,3;0,01;13,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:12
+25-02-2023;19:17:54;System Idle;system Idle;0;0;0,32;0,3;0,02;14;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:17
+25-02-2023;19:22:55;System Idle;system Idle;0;0;0,32;0,3;0,02;14;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:22
+25-02-2023;19:27:55;System Idle;system Idle;0;0;0,32;0,3;0,02;14;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:27
+25-02-2023;19:32:56;System Idle;system Idle;0;0;0,32;0,31;0,01;14;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:32
+25-02-2023;19:37:56;System Idle;system Idle;0;0;0,32;0,31;0,01;14;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:37
+25-02-2023;19:42:57;System Idle;system Idle;0;0;0,32;0,31;0,01;14;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:42
+25-02-2023;19:47:57;System Idle;system Idle;0;0;0,32;0,31;0,01;14,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:47
+25-02-2023;19:52:58;System Idle;system Idle;0;0;0,32;0,31;0,01;14,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:52
+25-02-2023;19:57:59;System Idle;system Idle;0;0;0,32;0,31;0,01;14,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 19:57
+25-02-2023;20:03:00;System Idle;system Idle;0;0;0,32;0,31;0,01;14,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:03
+25-02-2023;20:08:00;System Idle;system Idle;0;0;0,32;0,31;0,01;14,1;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:08
+25-02-2023;20:13:00;System Idle;system Idle;0;0;0,33;0,31;0,02;14,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:13
+25-02-2023;20:18:01;System Idle;system Idle;0;0;0,33;0,31;0,02;14,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:18
+25-02-2023;20:23:01;System Idle;system Idle;0;0;0,33;0,32;0,01;14,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:23
+25-02-2023;20:28:02;System Idle;system Idle;0;0;0,33;0,32;0,01;14,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:28
+25-02-2023;20:33:02;System Idle;system Idle;0;0;0,33;0,32;0,01;14,2;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:33
+25-02-2023;20:38:03;System Idle;system Idle;0;0;0,33;0,32;0,01;14,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:38
+25-02-2023;20:43:03;System Idle;system Idle;0;0;0,33;0,32;0,01;14,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:43
+25-02-2023;20:48:04;System Idle;system Idle;0;0;0,33;0,32;0,01;14,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:48
+25-02-2023;20:53:04;System Idle;system Idle;0;0;0,33;0,32;0,01;14,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:53
+25-02-2023;20:58:05;System Idle;system Idle;0;0;0,33;0,32;0,01;14,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 20:58
+25-02-2023;21:03:06;System Idle;system Idle;0;0;0,33;0,32;0,01;14,3;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:03
+25-02-2023;21:08:06;System Idle;system Idle;0;0;0,34;0,32;0,02;14,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:08
+25-02-2023;21:13:06;System Idle;system Idle;0;0;0,34;0,32;0,02;14,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:13
+25-02-2023;21:18:07;System Idle;system Idle;0;0;0,34;0,32;0,02;14,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:18
+25-02-2023;21:23:07;System Idle;system Idle;0;0;0,34;0,32;0,02;14,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:23
+25-02-2023;21:28:08;System Idle;system Idle;0;0;0,34;0,33;0,01;14,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:28
+25-02-2023;21:33:08;System Idle;system Idle;0;0;0,34;0,33;0,01;14,4;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:33
+25-02-2023;21:38:09;System Idle;system Idle;0;0;0,34;0,33;0,01;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:38
+25-02-2023;21:43:09;System Idle;system Idle;0;0;0,34;0,33;0,01;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:43
+25-02-2023;21:48:10;System Idle;system Idle;0;0;0,34;0,33;0,01;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:48
+25-02-2023;21:53:10;System Idle;system Idle;0;0;0,34;0,33;0,01;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:53
+25-02-2023;21:58:11;System Idle;system Idle;0;0;0,34;0,33;0,01;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 21:58
+25-02-2023;22:03:12;System Idle;system Idle;0;0;0,35;0,33;0,02;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:03
+25-02-2023;22:08:12;System Idle;system Idle;0;0;0,35;0,33;0,02;14,5;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:08
+25-02-2023;22:13:12;System Idle;system Idle;0;0;0,35;0,33;0,02;14,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:13
+25-02-2023;22:18:13;System Idle;system Idle;0;0;0,35;0,34;0,01;14,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:18
+25-02-2023;22:23:14;System Idle;system Idle;0;0;0,35;0,34;0,01;14,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:23
+25-02-2023;22:28:14;System Idle;system Idle;0;0;0,35;0,34;0,01;14,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:28
+25-02-2023;22:33:15;System Idle;system Idle;0;0;0,35;0,34;0,01;14,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:33
+25-02-2023;22:38:15;System Idle;system Idle;0;0;0,35;0,34;0,01;14,6;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:38
+25-02-2023;22:43:16;System Idle;system Idle;0;0;0,35;0,34;0,01;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:43
+25-02-2023;22:48:16;System Idle;system Idle;0;0;0,35;0,34;0,01;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:48
+25-02-2023;22:53:17;System Idle;system Idle;0;0;0,35;0,34;0,01;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:53
+25-02-2023;22:58:17;System Idle;system Idle;0;0;0,36;0,34;0,02;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 22:58
+25-02-2023;23:03:18;System Idle;system Idle;0;0;0,36;0,34;0,02;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:03
+25-02-2023;23:08:17;System Idle;system Idle;0;0;0,36;0,34;0,02;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:08
+25-02-2023;23:13:18;System Idle;system Idle;0;0;0,36;0,35;0,01;14,7;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:13
+25-02-2023;23:18:18;System Idle;system Idle;0;0;0,36;0,35;0,01;14,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:18
+25-02-2023;23:23:19;System Idle;system Idle;0;0;0,36;0,35;0,01;14,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:23
+25-02-2023;23:28:19;System Idle;system Idle;0;0;0,36;0,35;0,01;14,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:28
+25-02-2023;23:33:20;System Idle;system Idle;0;0;0,36;0,35;0,01;14,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:33
+25-02-2023;23:38:20;System Idle;system Idle;0;0;0,36;0,35;0,01;14,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:38
+25-02-2023;23:43:21;System Idle;system Idle;0;0;0,36;0,35;0,01;14,8;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:43
+25-02-2023;23:48:21;System Idle;system Idle;0;0;0,36;0,35;0,01;14,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:48
+25-02-2023;23:53:22;System Idle;system Idle;0;0;0,36;0,35;0,01;14,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:53
+25-02-2023;23:58:22;System Idle;system Idle;0;0;0,37;0,35;0,02;14,9;1;0;722,9;System In Line;System Ok;500;35;25-02-2023 23:58
